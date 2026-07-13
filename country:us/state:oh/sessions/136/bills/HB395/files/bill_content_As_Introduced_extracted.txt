@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 395 2025-2026 Representatives Lorenz, Gross Cosponsors: Representatives Williams, Daniels, Fischer, Workman, Teska To amend section 4141.34 of the Revised Code to require the Director of Job and Family Services to establish an online process for employers to report individuals who fail to appear for a scheduled job interview. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4141.34 of the Revised Code be amended to read as follows: Sec. 4141.34. (A) The director of job and family services shall establish and maintain a process for an employer to report that either of the following: (1) That an applicant for or recipient of benefits has failed or is failing to meet any of the eligibility requirements described in division (A) of section 4141.29 of the Revised Code; (2) That an applicant for or recipient of benefits has failed to appear for a scheduled job interview with the employer. (B) The process shall allow an employer to make a complaint through a conspicuous internet link located on the internet web site maintained by the department of job and family services. The director shall review all complaints received through this process in a timely manner. Section 2. That existing section 4141.34 of the Revised Code is hereby repealed.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 395 2025-2026 Representatives Lorenz, Gross Cosponsors: Representatives Williams, Daniels, Fischer, Workman, Teska To amend section 4141.34 of the Revised Code to require the Director of Job and Family Services to establish an online process for employers to report individuals who fail to appear for a scheduled job interview. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4141.34 of the Revised Code be amended to read as follows: Sec. 4141.34. (A) The director of job and family services shall establish and maintain a process for an employer to report that either of the following: (1) That an applicant for or recipient of benefits has failed or is failing to meet any of the eligibility requirements described in division (A) of section 4141.29 of the Revised Code; (2) That an applicant for or recipient of benefits has failed to appear for a scheduled job interview with the employer. (B) The process shall allow an employer to make a complaint through a conspicuous internet link located on the internet web site maintained by the department of job and family services. The director shall review all complaints received through this process in a timely manner. Section 2. That existing section 4141.34 of the Revised Code is hereby repealed.
