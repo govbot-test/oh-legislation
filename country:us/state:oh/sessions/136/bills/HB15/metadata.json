@@ -1,0 +1,567 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 15",
+  "title": "Amend competitive retail electric service law",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Electric Utilities",
+    "Gas Utilities",
+    "Taxation",
+    "Utilities"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 4906.04, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 5727.01, 5727.031, 5727.06, 5727.11, 5727.111, and 5727.15; to enact sections 4928.041, 4928.081, 4928.101, 4928.102, 4928.103, 4928.149, 4929.201, 4929.221, 4929.222, 4933.51, 4933.52, 4933.54, 4933.56, 4933.58, and 4933.59; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4928.143, 4928.148, and 4928.642 of the Revised Code to amend the competitive retail electric service law, make changes regarding electric company property taxation, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 4906.04, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 5727.01, 5727.031, 5727.06, 5727.11, 5727.111, and 5727.15; to enact sections 4928.041, 4928.081, 4928.101, 4928.102, 4928.103, 4928.149, 4929.201, 4929.221, 4929.222, 4933.51, 4933.52, 4933.54, 4933.56, 4933.58, and 4933.59; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4928.143, 4928.148, and 4928.642 of the Revised Code to amend the competitive retail electric service law, make changes regarding electric company property taxation, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 122.6511, 4905.03, 4906.01, 4906.02, 4906.03, 4906.04, 4906.06, 4906.07, 4906.10, 4906.201, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.42, 4928.01, 4928.02, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.151, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 4935.04, 5727.01, 5727.111, and 5727.75; to enact new section 4906.105 and sections 1.66, 122.161, 4903.27, 4905.321, 4905.331, 4909.041, 4909.042, 4909.159, 4909.181, 4909.192, 4909.193, 4928.041, 4928.101, 4928.102, 4928.149, 4928.73, 4928.83, 4928.86, 4929.221, 4929.222, 4934.01, 4934.011, 4934.04, 4934.05, 4934.06, 4934.07, 4934.071, 4934.072, 4934.08, 4934.09, 4934.10, 4934.11, 4934.12, 4934.13, 4934.14, 4934.17, 4934.18, 4934.20, 4934.21, 4934.23, 4934.25, 4934.26, 4934.27, 4934.35, 4934.36, 4934.37, 4934.38, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4906.105, 4928.143, 4928.148, 4928.47, and 4928.642 of the Revised Code to amend the competitive retail electric service law, modify taxation of certain public utility property, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 122.6511, 4905.03, 4906.01, 4906.02, 4906.03, 4906.04, 4906.06, 4906.07, 4906.10, 4906.201, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.42, 4928.01, 4928.02, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.151, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 4935.04, 5727.01, 5727.111, and 5727.75; to enact new section 4906.105 and sections 1.66, 122.161, 4903.27, 4905.321, 4905.331, 4909.041, 4909.042, 4909.159, 4909.181, 4909.192, 4909.193, 4928.041, 4928.101, 4928.102, 4928.149, 4928.73, 4928.83, 4928.86, 4929.221, 4929.222, 4934.01, 4934.011, 4934.04, 4934.05, 4934.06, 4934.07, 4934.071, 4934.072, 4934.08, 4934.09, 4934.10, 4934.11, 4934.12, 4934.13, 4934.14, 4934.17, 4934.18, 4934.20, 4934.21, 4934.23, 4934.25, 4934.26, 4934.27, 4934.35, 4934.36, 4934.37, 4934.38, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4906.105, 4928.143, 4928.148, 4928.47, and 4928.642 of the Revised Code to amend the competitive retail electric service law, modify taxation of certain public utility property, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 122.6511, 3313.372, 3313.373, 4905.03, 4906.01, 4906.03, 4906.06, 4906.07, 4906.10, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.191, 4909.42, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 4935.04, 5727.01, 5727.111, and 5727.75; to enact sections 122.161, 3313.377, 3313.378, 4903.27, 4905.23, 4905.311, 4905.321, 4905.331, 4909.041, 4909.042, 4909.159, 4909.181, 4909.192, 4909.193, 4909.421, 4928.041, 4928.101, 4928.102, 4928.103, 4928.104, 4928.105, 4928.149, 4928.1410, 4928.73, 4928.83, 4928.86, 4929.221, 4929.222, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4906.105, 4928.143, 4928.148, 4928.47, and 4928.642 of the Revised Code to amend the competitive retail electric service law, modify taxation of certain public utility property, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 122.6511, 3313.372, 3313.373, 4905.03, 4906.01, 4906.03, 4906.06, 4906.07, 4906.10, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.191, 4909.42, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 4935.04, 5727.01, 5727.111, and 5727.75; to enact sections 122.161, 3313.377, 3313.378, 4903.27, 4905.23, 4905.311, 4905.321, 4905.331, 4909.041, 4909.042, 4909.159, 4909.181, 4909.192, 4909.193, 4909.421, 4928.041, 4928.101, 4928.102, 4928.103, 4928.104, 4928.105, 4928.149, 4928.1410, 4928.73, 4928.83, 4928.86, 4929.221, 4929.222, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4906.105, 4928.143, 4928.148, 4928.47, and 4928.642 of the Revised Code to amend the competitive retail electric service law, modify taxation of certain public utility property, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 122.6511, 3313.372, 3313.373, 4905.03, 4906.01, 4906.03, 4906.06, 4906.07, 4906.10, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.191, 4909.42, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 4935.04, 5727.01, 5727.111, and 5727.75; to enact sections 122.161, 3313.377, 3313.378, 4903.27, 4905.23, 4905.311, 4905.321, 4905.331, 4909.041, 4909.042, 4909.159, 4909.181, 4909.192, 4909.193, 4909.421, 4928.041, 4928.101, 4928.102, 4928.103, 4928.104, 4928.105, 4928.149, 4928.1410, 4928.73, 4928.83, 4928.86, 4929.221, 4929.222, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4906.105, 4928.143, 4928.148, 4928.47, and 4928.642 of the Revised Code to amend the competitive retail electric service law, modify taxation of certain public utility property, and repeal parts of H.B. 6 of the 133rd General Assembly."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb15"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-04-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendments",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2025-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Effective",
+      "date": "2025-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Effective 8/14/25",
+      "date": "2025-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roy Klopfenstein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Dovilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elgin Rogers, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Energy Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Energy Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/03_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/03_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/04_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/04_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25768",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25122",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24950",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24933",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24483",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25297",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25131",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25117",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24949",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24928",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24921",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24553",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24859",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24826",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24784",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb15",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb15/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:25Z"
+  }
+}

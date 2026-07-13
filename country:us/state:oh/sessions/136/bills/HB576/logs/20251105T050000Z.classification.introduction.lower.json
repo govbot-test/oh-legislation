@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced",
+    "occurred_at": "2025-11-05T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb576",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb576/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 576"
+}

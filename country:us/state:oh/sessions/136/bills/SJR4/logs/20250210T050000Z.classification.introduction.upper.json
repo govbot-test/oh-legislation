@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Offered",
+    "occurred_at": "2025-02-10T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/sjr4",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sjr4/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 4"
+}

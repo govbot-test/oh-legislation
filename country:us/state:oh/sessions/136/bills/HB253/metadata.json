@@ -1,0 +1,303 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 253",
+  "title": "License advanced practice respiratory therapists",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care",
+    "Health and Human Services",
+    "Occupational Licensing and Regulation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 2305.234, 2925.01, 2925.23, 2925.55, 2925.56, 2929.42, 3701.048, 3701.74, 3715.872, 3719.121, 3719.13, 3719.81, 4729.01, 4729.51, 4731.22, 4731.25, 4743.09, 4755.48, 4761.01, 4761.03, 4761.032, 4761.06, 4761.061, 4761.07, 4761.09, 4761.13, 4761.14, 4761.17, 4761.30, 4761.99, 4765.51, 4769.01, 5123.47, 5164.95, and 5903.12 and to enact sections 4761.033, 4761.20, 4761.21, 4761.31, 4761.311, 4761.32, 4761.33, 4761.34, 4761.35, 4761.36, 4761.37, 4761.38, 4761.39, 4761.391, 4761.40, 4761.41, 4761.42, 4761.44, 4761.45, 4761.46, and 4761.49 of the Revised Code to license advanced practice respiratory therapists."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.234, 2925.01, 2925.23, 2925.55, 2925.56, 2929.42, 3701.048, 3701.74, 3715.872, 3719.121, 3719.13, 3719.81, 4729.01, 4729.51, 4731.22, 4731.25, 4743.09, 4755.48, 4761.01, 4761.03, 4761.032, 4761.06, 4761.061, 4761.07, 4761.09, 4761.13, 4761.14, 4761.17, 4761.30, 4761.99, 4765.51, 4769.01, 5123.47, 5164.95, and 5903.12 and to enact sections 4761.033, 4761.20, 4761.21, 4761.31, 4761.311, 4761.32, 4761.33, 4761.34, 4761.35, 4761.36, 4761.37, 4761.38, 4761.39, 4761.391, 4761.40, 4761.41, 4761.42, 4761.44, 4761.45, 4761.46, and 4761.49 of the Revised Code to license advanced practice respiratory therapists."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.234, 2925.01, 2925.23, 2925.55, 2925.56, 3701.048, 3701.74, 3715.872, 3719.121, 3719.13, 3719.81, 4729.01, 4729.51, 4731.22, 4731.2210, 4731.25, 4743.09, 4755.48, 4761.01, 4761.03, 4761.032, 4761.06, 4761.061, 4761.07, 4761.09, 4761.13, 4761.14, 4761.17, 4761.30, 4761.99, 4765.51, 4769.01, 5123.47, 5164.95, and 5903.12 and to enact sections 4761.033, 4761.20, 4761.21, 4761.31, 4761.311, 4761.32, 4761.33, 4761.34, 4761.35, 4761.36, 4761.37, 4761.38, 4761.39, 4761.391, 4761.40, 4761.41, 4761.42, 4761.44, 4761.45, 4761.46, and 4761.49 of the Revised Code to license advanced practice respiratory therapists."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.234, 2925.01, 2925.23, 2925.55, 2925.56, 3701.048, 3701.74, 3715.872, 3719.121, 3719.13, 3719.81, 4729.01, 4729.51, 4731.22, 4731.2210, 4731.25, 4743.09, 4755.48, 4761.01, 4761.03, 4761.032, 4761.06, 4761.061, 4761.07, 4761.09, 4761.13, 4761.14, 4761.17, 4761.30, 4761.99, 4765.51, 4769.01, 5123.47, 5164.95, and 5903.12 and to enact sections 4761.033, 4761.20, 4761.21, 4761.31, 4761.311, 4761.32, 4761.33, 4761.34, 4761.35, 4761.36, 4761.37, 4761.38, 4761.39, 4761.391, 4761.40, 4761.41, 4761.42, 4761.44, 4761.45, 4761.46, and 4761.49 of the Revised Code to license advanced practice respiratory therapists."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb253"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-11-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-11-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marilyn John",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marilyn John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Young",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Young\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Health Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26645",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26527",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25857",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26606",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26499",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26002",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Occupational Regulation Report",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26435",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb253",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb253/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:25Z"
+  }
+}

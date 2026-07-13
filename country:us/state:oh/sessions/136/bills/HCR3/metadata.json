@@ -1,0 +1,184 @@
+{
+  "legislative_session": "136",
+  "identifier": "HCR 3",
+  "title": "Prepare arguments for and against constitutional amendments",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "General Assembly",
+    "State Government",
+    "State and Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To delegate to the President of the Senate and the\nSpeaker of the House of Representatives authority to\ndesignate groups of members to prepare arguments for\nand against amendments to the Ohio Constitution\nproposed by the General Assembly; a person or persons\nto prepare an argument for any law, section, or item\nsubmitted to the electors by referendum petition; and\na person or persons to prepare an argument against any\nconstitutional amendment or law proposed by initiative\npetition."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To delegate to the President of the Senate and the\nSpeaker of the House of Representatives authority to\ndesignate groups of members to prepare arguments for\nand against amendments to the Ohio Constitution\nproposed by the General Assembly; a person or persons\nto prepare an argument for any law, section, or item\nsubmitted to the electors by referendum petition; and\na person or persons to prepare an argument against any\nconstitutional amendment or law proposed by initiative\npetition."
+    },
+    {
+      "note": "long title",
+      "title": "To delegate to the President of the Senate and the\nSpeaker of the House of Representatives authority to\ndesignate groups of members to prepare arguments for\nand against amendments to the Ohio Constitution\nproposed by the General Assembly; a person or persons\nto prepare an argument for any law, section, or item\nsubmitted to the electors by referendum petition; and\na person or persons to prepare an argument against any\nconstitutional amendment or law proposed by initiative\npetition."
+    },
+    {
+      "note": "long title",
+      "title": "To delegate to the President of the Senate and the\nSpeaker of the House of Representatives authority to\ndesignate groups of members to prepare arguments for\nand against amendments to the Ohio Constitution\nproposed by the General Assembly; a person or persons\nto prepare an argument for any law, section, or item\nsubmitted to the electors by referendum petition; and\na person or persons to prepare an argument against any\nconstitutional amendment or law proposed by initiative\npetition."
+    },
+    {
+      "note": "long title",
+      "title": "To delegate to the President of the Senate and the\nSpeaker of the House of Representatives authority to\ndesignate groups of members to prepare arguments for\nand against amendments to the Ohio Constitution\nproposed by the General Assembly; a person or persons\nto prepare an argument for any law, section, or item\nsubmitted to the electors by referendum petition; and\na person or persons to prepare an argument against any\nconstitutional amendment or law proposed by initiative\npetition."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hcr3"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted",
+      "date": "2025-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Matt Huffman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Matt Huffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob McColley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rob McColley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Offered",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Adopted by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/01_AH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/01_AH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Adopted by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/02_AS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/02_AS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/03_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/03_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hcr3",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:25Z"
+  }
+}

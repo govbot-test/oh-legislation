@@ -1,0 +1,638 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 56",
+  "title": "Revise medical and adult-use marijuana laws; levy marijuana taxes",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Marijuana, Cannabis, and Hemp",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 121.04, 121.08, 519.21, 928.03, 3376.07, 3780.01, 3780.06, 3780.08, 3780.10, 3780.11, 3780.31, 3796.01, 3796.02, 3796.03, 3796.032, 3796.05, 3796.06, 3796.061, 3796.07, 3796.09, 3796.10, 3796.11, 3796.12, 3796.13, 3796.14, 3796.15, 3796.16, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 4729.80, 4735.18, 4743.09, 4776.01, 5502.01, 5502.13, 5502.14, 5713.30, 5739.21, and 5739.99; to enact sections 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.99, and 5739.27; and to repeal sections 3780.02, 3780.03, 3780.04, 3780.05, 3780.07, 3780.09, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.18, 3780.19, 3780.20, 3780.21, 3780.22, 3780.23, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to consolidate the administration of the marijuana control program, revise the medical and adult-use marijuana laws, and to levy taxes on marijuana."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 121.04, 121.08, 519.21, 928.03, 3376.07, 3780.01, 3780.06, 3780.08, 3780.10, 3780.11, 3780.31, 3796.01, 3796.02, 3796.03, 3796.032, 3796.05, 3796.06, 3796.061, 3796.07, 3796.09, 3796.10, 3796.11, 3796.12, 3796.13, 3796.14, 3796.15, 3796.16, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 4729.80, 4735.18, 4743.09, 4776.01, 5502.01, 5502.13, 5502.14, 5713.30, 5739.21, and 5739.99; to enact sections 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.99, and 5739.27; and to repeal sections 3780.02, 3780.03, 3780.04, 3780.05, 3780.07, 3780.09, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.18, 3780.19, 3780.20, 3780.21, 3780.22, 3780.23, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to consolidate the administration of the marijuana control program, revise the medical and adult-use marijuana laws, and to levy taxes on marijuana."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 121.04, 121.08, 519.21, 715.013, 928.03, 3376.07, 3780.01, 3780.10, 3780.22, 3780.23, 3780.31, 3796.01, 3796.02, 3796.03, 3796.032, 3796.05, 3796.06, 3796.061, 3796.07, 3796.09, 3796.10, 3796.11, 3796.12, 3796.13, 3796.14, 3796.15, 3796.16, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 4729.80, 4735.18, 4743.09, 4776.01, 4796.25, 5502.01, 5502.13, 5502.14, and 5713.30; to enact sections 2953.321, 3796.04, 3796.062, 3796.221, 3796.32, and 3796.99; and to repeal sections 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.18, 3780.19, 3780.20, 3780.21, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to consolidate the administration of the marijuana control program and to revise the medical and adult-use marijuana laws."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 121.04, 121.08, 519.21, 715.013, 928.03, 3376.07, 3780.01, 3780.10, 3780.22, 3780.23, 3780.31, 3796.01, 3796.02, 3796.03, 3796.032, 3796.05, 3796.06, 3796.061, 3796.07, 3796.09, 3796.10, 3796.11, 3796.12, 3796.13, 3796.14, 3796.15, 3796.16, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 4729.80, 4735.18, 4743.09, 4776.01, 4796.25, 5502.01, 5502.13, 5502.14, and 5713.30; to enact sections 2953.321, 3796.04, 3796.062, 3796.221, 3796.32, and 3796.99; and to repeal sections 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.18, 3780.19, 3780.20, 3780.21, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to consolidate the administration of the marijuana control program and to revise the medical and adult-use marijuana laws."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 109.572, 131.02, 519.21, 715.013, 928.01, 928.03, 3376.07, 3796.01, 3796.02, 3796.03, 3796.05, 3796.06, 3796.07, 3796.09, 3796.10, 3796.12, 3796.13, 3796.14, 3796.15, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.23, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 3796.31, 4506.01, 4735.18, 4796.25, 5502.01, 5502.13, 5502.14, 5703.052, 5703.053, 5703.19, 5703.263, 5703.50, 5703.70, 5703.77, 5713.30, and 5743.45; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3780.37 (3796.34); to enact sections 928.08, 2953.321, 3779.01, 3779.02, 3779.021, 3779.022, 3779.03, 3779.031, 3779.032, 3779.04, 3779.05, 3779.051, 3779.06, 3779.07, 3779.08, 3779.09, 3779.10, 3779.11, 3779.21, 3779.22, 3779.221, 3779.23, 3779.24, 3779.25, 3779.26, 3779.27, 3779.28, 3779.29, 3779.30, 3779.40, 3779.41, 3779.42, 3779.43, 3779.431, 3779.44, 3779.45, 3779.451, 3779.46, 3779.47, 3779.48, 3779.99, 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.40, 3796.99, and 5119.171; and to repeal sections 3780.01, 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.10, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.20, 3780.21, 3780.22, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.31, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to revise specified provisions of the liquor control, hemp, and adult-use marijuana laws, to levy taxes on certain hemp products, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 109.572, 131.02, 519.21, 715.013, 928.01, 928.03, 3376.07, 3796.01, 3796.02, 3796.03, 3796.05, 3796.06, 3796.07, 3796.09, 3796.10, 3796.12, 3796.13, 3796.14, 3796.15, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.23, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 3796.31, 4506.01, 4735.18, 4796.25, 5502.01, 5502.13, 5502.14, 5703.052, 5703.053, 5703.19, 5703.263, 5703.50, 5703.70, 5703.77, 5713.30, and 5743.45; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3780.37 (3796.34); to enact sections 928.08, 2953.321, 3779.01, 3779.02, 3779.021, 3779.022, 3779.03, 3779.031, 3779.032, 3779.04, 3779.05, 3779.051, 3779.06, 3779.07, 3779.08, 3779.09, 3779.10, 3779.11, 3779.21, 3779.22, 3779.221, 3779.23, 3779.24, 3779.25, 3779.26, 3779.27, 3779.28, 3779.29, 3779.30, 3779.40, 3779.41, 3779.42, 3779.43, 3779.431, 3779.44, 3779.45, 3779.451, 3779.46, 3779.47, 3779.48, 3779.99, 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.40, 3796.99, and 5119.171; and to repeal sections 3780.01, 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.10, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.20, 3780.21, 3780.22, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.31, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to revise specified provisions of the liquor control, hemp, and adult-use marijuana laws, to levy taxes on certain hemp products, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 109.572, 131.02, 519.21, 715.013, 928.01, 928.03, 3376.07, 3796.01, 3796.02, 3796.03, 3796.05, 3796.06, 3796.07, 3796.09, 3796.10, 3796.12, 3796.13, 3796.14, 3796.15, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.23, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 3796.31, 4506.01, 4735.18, 4796.25, 5502.01, 5502.13, 5502.14, 5703.052, 5703.053, 5703.19, 5703.263, 5703.50, 5703.70, 5703.77, 5713.30, and 5743.45; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3780.37 (3796.34); to enact sections 928.08, 2953.321, 3779.01, 3779.02, 3779.021, 3779.022, 3779.03, 3779.031, 3779.032, 3779.04, 3779.05, 3779.051, 3779.06, 3779.07, 3779.08, 3779.09, 3779.10, 3779.11, 3779.21, 3779.22, 3779.221, 3779.23, 3779.24, 3779.25, 3779.26, 3779.27, 3779.28, 3779.29, 3779.30, 3779.40, 3779.41, 3779.42, 3779.43, 3779.431, 3779.44, 3779.45, 3779.451, 3779.46, 3779.47, 3779.48, 3779.99, 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.40, 3796.99, and 5119.171; and to repeal sections 3780.01, 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.10, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.20, 3780.21, 3780.22, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.31, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to revise specified provisions of the liquor control, hemp, and adult-use marijuana laws, to levy taxes on certain hemp products, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 109.572, 131.02, 519.21, 715.013, 928.01, 928.03, 3376.07, 3796.01, 3796.02, 3796.03, 3796.05, 3796.06, 3796.07, 3796.09, 3796.10, 3796.12, 3796.13, 3796.14, 3796.15, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.23, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 3796.31, 4506.01, 4735.18, 4796.25, 5502.01, 5502.13, 5502.14, 5703.052, 5703.053, 5703.19, 5703.263, 5703.50, 5703.70, 5703.77, 5713.30, and 5743.45; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3780.37 (3796.34); to enact sections 928.08, 2953.321, 3779.01, 3779.02, 3779.021, 3779.022, 3779.03, 3779.031, 3779.032, 3779.04, 3779.05, 3779.051, 3779.06, 3779.07, 3779.08, 3779.09, 3779.10, 3779.11, 3779.21, 3779.22, 3779.221, 3779.23, 3779.24, 3779.25, 3779.26, 3779.27, 3779.28, 3779.29, 3779.30, 3779.40, 3779.41, 3779.42, 3779.43, 3779.431, 3779.44, 3779.45, 3779.451, 3779.46, 3779.47, 3779.48, 3779.99, 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.40, 3796.99, and 5119.171; and to repeal sections 3780.01, 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.10, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.20, 3780.21, 3780.22, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.31, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to revise specified provisions of the liquor control, hemp, and adult-use marijuana laws, to levy taxes on certain hemp products, and to make an appropriation."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb56"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute - Re-referred to Rules and Reference",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Re-referred to Finance",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Rules and Reference Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Refused to concur in House amendments",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Insist on amendments; asks for committee of conference",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Conference managers: Sens. - Huffman, Wilkin, DeMora",
+      "date": "2025-11-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Conference managers: Reps. - Fischer, Stewart, Sweeney",
+      "date": "2025-11-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Conference report agreed to",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Conference Committee on S.B. 56 Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephen A. Huffman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate General Government Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/02_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/02_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Judiciary Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Re-Referred by the House Rules and Reference Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/04_RCH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/04_RCH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Finance Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/05_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/05_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/06_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/06_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26379",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26235",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24997",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24681",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24447",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Recommended by Conference Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26835",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26262",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26246",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26220",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26241",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26215",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25497",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Re-referred By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26231",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24688",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24683",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24682",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24605",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of Conference Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26814",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26247",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26240",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26223",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25433",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Occupational  Regulation Report",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24611",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb56",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:25Z"
+  }
+}

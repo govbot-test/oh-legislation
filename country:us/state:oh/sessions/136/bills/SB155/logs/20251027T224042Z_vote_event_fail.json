@@ -1,0 +1,95 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "amendment",
+    "committee-passage"
+  ],
+  "start_date": "2025-10-27T22:40:42+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "695649fe-7dc8-11f1-9627-ca0073f565ed",
+  "bill_action": null,
+  "bill_identifier": "SB 155",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "James M. Hoops",
+      "voter_id": "~{\"name\": \"James M. Hoops\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Brownlee",
+      "voter_id": "~{\"name\": \"Karen Brownlee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Levi Dean",
+      "voter_id": "~{\"name\": \"Levi Dean\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Demetriou",
+      "voter_id": "~{\"name\": \"Steve Demetriou\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tex Fischer",
+      "voter_id": "~{\"name\": \"Tex Fischer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Johnson",
+      "voter_id": "~{\"name\": \"Mark Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty D. Mathews",
+      "voter_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Sigrist",
+      "voter_id": "~{\"name\": \"Mark Sigrist\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb155/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-776395"
+}

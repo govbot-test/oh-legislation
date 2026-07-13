@@ -1,0 +1,112 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 323",
+  "title": "Provide for the natural organic reduction of remains",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cemeteries",
+    "Occupational Licensing and Regulation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 9.15, 313.12, 759.01, 1713.36, 1721.06, 1721.18, 1721.21, 2108.15, 2108.70, 2108.72, 2108.75, 2108.82, 2108.83, 2108.84, 2108.85, 2108.86, 2108.87, 2111.13, 2743.51, 2925.01, 3705.01, 3705.18, 3705.19, 3705.20, 4511.451, 4717.01, 4717.03, 4717.04, 4717.06, 4717.07, 4717.08, 4717.11, 4717.13, 4717.14, 4717.15, 4717.20, 4717.21, 4717.22, 4717.23, 4717.24, 4717.25, 4717.26, 4717.27, 4717.28, 4717.29, 4717.30, 4717.36, 4717.41, 4767.02, 4767.05, 5120.45, 5121.11, 5121.53, 5901.25, 5901.26, 5901.27, 5901.29, and 5901.32 of the Revised Code to provide for the natural organic reduction of remains."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 9.15, 313.12, 759.01, 1713.36, 1721.06, 1721.18, 1721.21, 2108.15, 2108.70, 2108.72, 2108.75, 2108.82, 2108.83, 2108.84, 2108.85, 2108.86, 2108.87, 2111.13, 2743.51, 2925.01, 3705.01, 3705.18, 3705.19, 3705.20, 4511.451, 4717.01, 4717.03, 4717.04, 4717.06, 4717.07, 4717.08, 4717.11, 4717.13, 4717.14, 4717.15, 4717.20, 4717.21, 4717.22, 4717.23, 4717.24, 4717.25, 4717.26, 4717.27, 4717.28, 4717.29, 4717.30, 4717.36, 4717.41, 4767.02, 4767.05, 5120.45, 5121.11, 5121.53, 5901.25, 5901.26, 5901.27, 5901.29, and 5901.32 of the Revised Code to provide for the natural organic reduction of remains."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb323"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:24Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Local Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Louis W. Blessing, III",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb323/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb323/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb323",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb323/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:24Z"
+  }
+}

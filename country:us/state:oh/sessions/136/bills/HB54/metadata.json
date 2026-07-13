@@ -1,0 +1,468 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 54",
+  "title": "Make appropriations for transportation for FY 2026-27 biennium",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance and Appropriations",
+    "Highways, Roads, and Bridges",
+    "Motor Vehicles",
+    "Public Safety",
+    "Taxation",
+    "Transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 154.01, 717.02, 4501.01, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4519.401, 5501.20, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5525.03, 5525.04, 5525.08, 5525.14, and 5571.01; to enact sections 4511.15, 5515.09, 5515.10, 5517.012, 5517.06, and 5525.141; and to repeal sections 4511.351 and 4511.491 of the Revised Code to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 154.01, 717.02, 4501.01, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4519.401, 5501.20, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5525.03, 5525.04, 5525.08, 5525.14, and 5571.01; to enact sections 4511.15, 5515.09, 5515.10, 5517.012, 5517.06, and 5525.141; and to repeal sections 4511.351 and 4511.491 of the Revised Code to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 154.01, 306.35, 306.43, 717.02, 1548.061, 3503.11, 3704.14, 4501.01, 4503.038, 4503.10, 4503.102, 4503.103, 4503.19, 4505.08, 4506.01, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4513.071, 4513.38, 4513.41, 4517.02, 4519.401, 4955.50, 4955.51, 5501.20, 5501.441, 5502.68, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5525.03, 5525.04, 5525.08, 5525.14, 5571.01, 5736.02, 5736.04, and 5736.13; to enact sections 1548.062, 4503.183, 4503.261, 4503.262, 4505.072, 4511.15, 4511.765, 4561.03, 4955.52, 4955.53, 4955.55, 4955.57, 4981.36, 4981.361, 5501.041, 5511.11, 5515.10, 5517.06, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 154.01, 306.35, 306.43, 717.02, 1548.061, 3503.11, 3704.14, 4501.01, 4503.038, 4503.10, 4503.102, 4503.103, 4503.19, 4505.08, 4506.01, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4513.071, 4513.38, 4513.41, 4517.02, 4519.401, 4955.50, 4955.51, 5501.20, 5501.441, 5502.68, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5525.03, 5525.04, 5525.08, 5525.14, 5571.01, 5736.02, 5736.04, and 5736.13; to enact sections 1548.062, 4503.183, 4503.261, 4503.262, 4505.072, 4511.15, 4511.765, 4561.03, 4955.52, 4955.53, 4955.55, 4955.57, 4981.36, 4981.361, 5501.041, 5511.11, 5515.10, 5517.06, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 117.12, 154.01, 306.43, 717.02, 1548.061, 3503.11, 3704.14, 4501.01, 4503.10, 4503.102, 4503.103, 4505.08, 4506.01, 4506.09, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.09, 4511.091, 4511.092, 4511.093, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4511.76, 4513.071, 4513.38, 4513.41, 4517.02, 4517.24, 4519.401, 4955.50, 4955.51, 5501.20, 5501.441, 5512.07, 5513.01, 5517.02, 5517.021, 5521.01, 5525.03, 5525.04, 5525.08, 5525.14, 5525.16, 5537.02, 5571.01, and 5747.502; to enact sections 117.56, 1548.062, 4503.183, 4505.072, 4511.15, 4511.206, 4511.765, 4923.12, 4955.52, 4955.53, 4955.55, 4955.57, 5515.10, 5517.012, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, and 4511.491 of the Revised Code and to amend Sections 243.10 and 243.20 of H.B. 2 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 101.27, 117.12, 154.01, 306.30, 306.35, 306.43, 717.02, 1548.061, 2935.03, 3503.11, 3704.14, 4501.01, 4503.10, 4503.102, 4503.103, 4503.21, 4505.08, 4506.01, 4506.09, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.093, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.21, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4511.76, 4513.071, 4513.38, 4513.41, 4517.02, 4517.24, 4519.401, 4955.50, 4955.51, 5501.20, 5501.41, 5501.441, 5512.07, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5521.01, 5525.03, 5525.04, 5525.08, 5525.14, 5525.16, 5537.02, 5571.01, and 5747.502; to enact sections 117.56, 1548.062, 4503.183, 4503.211, 4505.072, 4511.15, 4511.765, 4923.12, 4955.52, 4955.53, 4955.55, 4955.57, 5501.041, 5501.421, 5515.10, 5517.012, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Sections 200.20, 200.30 as subsequently amended, 243.10, and 243.20 of H.B. 2 of the 135th General Assembly and Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 101.27, 117.12, 154.01, 306.30, 306.35, 306.43, 717.02, 1548.061, 2935.03, 3503.11, 3704.14, 4501.01, 4503.10, 4503.102, 4503.103, 4503.21, 4505.08, 4506.01, 4506.09, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.093, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.21, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4511.76, 4513.071, 4513.38, 4513.41, 4517.02, 4517.24, 4519.401, 4955.50, 4955.51, 5501.20, 5501.41, 5501.441, 5512.07, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5521.01, 5525.03, 5525.04, 5525.08, 5525.14, 5525.16, 5537.02, 5571.01, and 5747.502; to enact sections 117.56, 1548.062, 4503.183, 4503.211, 4505.072, 4511.15, 4511.765, 4923.12, 4955.52, 4955.53, 4955.55, 4955.57, 5501.041, 5501.421, 5515.10, 5517.012, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Sections 200.20, 200.30 as subsequently amended, 243.10, and 243.20 of H.B. 2 of the 135th General Assembly and Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 101.27, 117.12, 154.01, 306.30, 306.35, 306.43, 717.02, 1548.061, 2935.03, 3503.11, 3704.14, 4501.01, 4503.10, 4503.102, 4503.103, 4503.21, 4505.08, 4506.01, 4506.09, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.093, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.21, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4511.76, 4513.071, 4513.38, 4513.41, 4517.02, 4517.24, 4519.401, 4955.50, 4955.51, 5501.20, 5501.41, 5501.441, 5512.07, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5521.01, 5525.03, 5525.04, 5525.08, 5525.14, 5525.16, 5537.02, 5571.01, and 5747.502; to enact sections 117.56, 1548.062, 4503.183, 4503.211, 4505.072, 4511.15, 4511.765, 4923.12, 4955.52, 4955.53, 4955.55, 4955.57, 5501.041, 5501.421, 5515.10, 5517.012, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Sections 200.20, 200.30 as subsequently amended, 243.10, and 243.20 of H.B. 2 of the 135th General Assembly and Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 101.27, 117.12, 154.01, 306.30, 306.35, 306.43, 717.02, 1548.061, 2935.03, 3503.11, 3704.14, 4501.01, 4503.10, 4503.102, 4503.103, 4503.21, 4505.08, 4506.01, 4506.09, 4506.11, 4507.01, 4507.061, 4507.13, 4507.21, 4507.52, 4508.02, 4511.01, 4511.031, 4511.09, 4511.091, 4511.092, 4511.093, 4511.094, 4511.11, 4511.13, 4511.131, 4511.132, 4511.18, 4511.204, 4511.21, 4511.211, 4511.214, 4511.432, 4511.46, 4511.48, 4511.512, 4511.61, 4511.62, 4511.64, 4511.65, 4511.68, 4511.701, 4511.712, 4511.76, 4513.071, 4513.38, 4513.41, 4517.02, 4517.24, 4519.401, 4955.50, 4955.51, 5501.20, 5501.41, 5501.441, 5512.07, 5513.01, 5515.01, 5515.02, 5515.99, 5517.02, 5517.021, 5521.01, 5525.03, 5525.04, 5525.08, 5525.14, 5525.16, 5537.02, 5571.01, and 5747.502; to enact sections 117.56, 1548.062, 4503.183, 4503.211, 4505.072, 4511.15, 4511.765, 4923.12, 4955.52, 4955.53, 4955.55, 4955.57, 5501.041, 5501.421, 5515.10, 5517.012, and 5517.08; and to repeal sections 4506.072, 4507.021, 4507.063, 4507.511, 4511.351, 4511.491, and 5501.60 of the Revised Code and to amend Sections 200.20, 200.30 as subsequently amended, 243.10, and 243.20 of H.B. 2 of the 135th General Assembly and Section 755.20 of H.B. 23 of the 135th General Assembly to make appropriations for programs related to transportation for the biennium beginning July 1, 2025, and ending June 30, 2027, and to provide authorization and conditions for the operation of those programs."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb54"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2025-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Transportation Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Transportation Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed - Amended",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendments",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2025-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2025-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Effective\n\t\t\t\t\t\n\t\t\t\t\tCertain provisions effective March 31, 2025; October 1, 2025; and December 27, 2025",
+      "date": "2025-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Effective 6/30/25",
+      "date": "2025-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian Stewart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Stewart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Finance Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Pending in the Senate Transportation Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/03_PSC/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/03_PSC/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Transportation Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/04_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/04_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/05_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/05_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Concurred by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/06_CH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/06_CH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/07_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/07_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=25200",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24856",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24699",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=24488",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb54",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb54/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:25Z"
+  }
+}

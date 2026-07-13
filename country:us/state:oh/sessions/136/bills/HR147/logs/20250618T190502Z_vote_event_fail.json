@@ -1,0 +1,106 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-06-18T19:05:02+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "6bfaf4de-7dc8-11f1-9627-ca0073f565ed",
+  "bill_action": null,
+  "bill_identifier": "HR 147",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Monica Robb Blasdel",
+      "voter_id": "~{\"name\": \"Monica Robb Blasdel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tex Fischer",
+      "voter_id": "~{\"name\": \"Tex Fischer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elgin Rogers, Jr.",
+      "voter_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sedrick Denson",
+      "voter_id": "~{\"name\": \"Sedrick Denson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Hiner",
+      "voter_id": "~{\"name\": \"Mark Hiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Holmes",
+      "voter_id": "~{\"name\": \"Adam Holmes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Johnson",
+      "voter_id": "~{\"name\": \"Mark Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty D. Mathews",
+      "voter_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lauren McNally",
+      "voter_id": "~{\"name\": \"Lauren McNally\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tristan Rader",
+      "voter_id": "~{\"name\": \"Tristan Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jodi Salvo",
+      "voter_id": "~{\"name\": \"Jodi Salvo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heidi Workman",
+      "voter_id": "~{\"name\": \"Heidi Workman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hr147/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-664388"
+}
