@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 71 2025-2026 Representative Brennan A BILL To enact section 1509.101 of the Revised Code to require horizontal oil and gas well owners that drill in state parks to disclose the chemical components of the materials used in the drilling operation. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1509.101 of the Revised Code be enacted to read as follows: Sec. 1509.101. (A) Notwithstanding any provision of the Revised Code to the contrary, the owner of a horizontal well that operates in or under a state park established under Chapter 1546. of the Revised Code shall disclose the trade name and all chemical components of all products, fluids, and substances used in the drilling and operation of the well to the chief of the division of oil and gas resources management. The owner shall disclose the trade name and chemical components not less than thirty days prior to the use of any such product, fluid, or substance. (B) The chief shall immediately post the information the chief receives under division (A) of this section on the division of oil and gas resources management's web site.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 71 2025-2026 Representative Brennan A BILL To enact section 1509.101 of the Revised Code to require horizontal oil and gas well owners that drill in state parks to disclose the chemical components of the materials used in the drilling operation. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1509.101 of the Revised Code be enacted to read as follows: Sec. 1509.101. (A) Notwithstanding any provision of the Revised Code to the contrary, the owner of a horizontal well that operates in or under a state park established under Chapter 1546. of the Revised Code shall disclose the trade name and all chemical components of all products, fluids, and substances used in the drilling and operation of the well to the chief of the division of oil and gas resources management. The owner shall disclose the trade name and chemical components not less than thirty days prior to the use of any such product, fluid, or substance. (B) The chief shall immediately post the information the chief receives under division (A) of this section on the division of oil and gas resources management's web site.

@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 158 2025-2026 Representatives Brennan, Thomas, D. Cosponsors: Representatives Fischer, Dean, Upchurch, Synenberg, McNally, Rogers, Russo, Workman, Somani, Cockley, Abdullahi, Hall, D. A BILL To enact section 4933.30 of the Revised Code to enact "The Consumer Utility Billing Transparency Act" requiring the itemization of all riders, taxes, and other costs on certain utility bills. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4933.30 of the Revised Code be enacted to read as follows: Sec. 4933.30. (A) A utility billing issued from a gas, natural gas, water works, or electric light company operated for profit or not for profit to a residential customer shall itemize the following: (1) The customer's utility distribution costs; (2) The customer's generation costs; (3) The customer's transmission costs; (4) The customer's supply costs; (5) All riders and charges that are separate from the customer's utility distribution, generation, transmission, or supply costs; (6) All taxes and governmental fees. (B) Each line item shall contain the amount apportioned to the customer for the billing period. Section 2. Section 4933.30 of the Revised Code shall be known as "The Consumer Utility Billing Transparency Act."
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 158 2025-2026 Representatives Brennan, Thomas, D. Cosponsors: Representatives Fischer, Dean, Upchurch, Synenberg, McNally, Rogers, Russo, Workman, Somani, Cockley, Abdullahi, Hall, D. A BILL To enact section 4933.30 of the Revised Code to enact "The Consumer Utility Billing Transparency Act" requiring the itemization of all riders, taxes, and other costs on certain utility bills. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4933.30 of the Revised Code be enacted to read as follows: Sec. 4933.30. (A) A utility billing issued from a gas, natural gas, water works, or electric light company operated for profit or not for profit to a residential customer shall itemize the following: (1) The customer's utility distribution costs; (2) The customer's generation costs; (3) The customer's transmission costs; (4) The customer's supply costs; (5) All riders and charges that are separate from the customer's utility distribution, generation, transmission, or supply costs; (6) All taxes and governmental fees. (B) Each line item shall contain the amount apportioned to the customer for the billing period. Section 2. Section 4933.30 of the Revised Code shall be known as "The Consumer Utility Billing Transparency Act."

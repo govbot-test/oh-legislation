@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 368 2025-2026 Representatives Upchurch, Brewer Cosponsors: Representatives Brownlee, Grim, Mohamed, Synenberg, Thomas, C. To enact section 1923.111 of the Revised Code to require eviction records to be sealed after three years. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1923.111 of the Revised Code be enacted to read as follows: Sec. 1923.111. (A) All records of actions commenced under this chapter shall be automatically sealed by the clerk of the court's office three years after the final judgment entry in the case or, if any financial judgment was awarded, three years after the date of final satisfaction of the judgment. (B) Any records of actions eligible to be sealed under division (A) of this section shall be automatically sealed by the clerk of the court's office within ninety days after the effective date of this section.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 368 2025-2026 Representatives Upchurch, Brewer Cosponsors: Representatives Brownlee, Grim, Mohamed, Synenberg, Thomas, C. To enact section 1923.111 of the Revised Code to require eviction records to be sealed after three years. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1923.111 of the Revised Code be enacted to read as follows: Sec. 1923.111. (A) All records of actions commenced under this chapter shall be automatically sealed by the clerk of the court's office three years after the final judgment entry in the case or, if any financial judgment was awarded, three years after the date of final satisfaction of the judgment. (B) Any records of actions eligible to be sealed under division (A) of this section shall be automatically sealed by the clerk of the court's office within ninety days after the effective date of this section.

@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	S. B. No. 140 2025-2026 Senators Ingram, Reynolds Cosponsors: Senators Smith, Craig To enact section 3702.35 of the Revised Code regarding freestanding birthing centers. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3702.35 of the Revised Code be enacted to read as follows: Sec. 3702.35. (A) As used in this section: (1) "Commission for the accreditation of birth centers" means the organization known by that name or its successor organization. (2) "Freestanding birthing center" means a facility, or part of a facility, that provides care during pregnancy, delivery, and the immediate postpartum period to a low-risk expectant mother. "Freestanding birthing center" does not include a hospital licensed under Chapter 3722. of the Revised Code. (B) Each freestanding birthing center shall have a written plan for the transfer of a mother or a newborn to a hospital in the event of medical complications, emergency situations, or as the need arises. (C) No freestanding birthing center accredited by the commission for the accreditation of birth centers shall be required to establish a written transfer agreement with a hospital. (D) A freestanding birthing center that is not accredited by the commission for the accreditation of birth centers shall have a written transfer agreement with a local hospital.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	S. B. No. 140 2025-2026 Senators Ingram, Reynolds Cosponsors: Senators Smith, Craig To enact section 3702.35 of the Revised Code regarding freestanding birthing centers. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3702.35 of the Revised Code be enacted to read as follows: Sec. 3702.35. (A) As used in this section: (1) "Commission for the accreditation of birth centers" means the organization known by that name or its successor organization. (2) "Freestanding birthing center" means a facility, or part of a facility, that provides care during pregnancy, delivery, and the immediate postpartum period to a low-risk expectant mother. "Freestanding birthing center" does not include a hospital licensed under Chapter 3722. of the Revised Code. (B) Each freestanding birthing center shall have a written plan for the transfer of a mother or a newborn to a hospital in the event of medical complications, emergency situations, or as the need arises. (C) No freestanding birthing center accredited by the commission for the accreditation of birth centers shall be required to establish a written transfer agreement with a hospital. (D) A freestanding birthing center that is not accredited by the commission for the accreditation of birth centers shall have a written transfer agreement with a local hospital.

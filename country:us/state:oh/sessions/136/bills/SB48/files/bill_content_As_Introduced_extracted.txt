@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	S. B. No. 48 2025-2026 Senator Ingram A BILL To amend section 117.113 of the Revised Code regarding the auditing of chartered nonpublic schools. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 117.113 of the Revised Code be amended to read as follows: Sec. 117.113. (A) The auditor of state shall audit each science, technology, engineering, and mathematics school established under Chapter 3326. of the Revised Code in accordance with this chapter each fiscal year. (B) Each fiscal year, the auditor of state shall audit the specific funds or accounts of each chartered nonpublic school in the state into which public money has been placed or deposited for that fiscal year. For purposes of this division, "public money" includes any funds the school receives from the state for any of the following: (1) Participation in the educational choice scholarship program established under sections 3310.01 to 3310.17 of the Revised Code; (2) Administrative and clerical cost reimbursements prescribed under section 3317.063 of the Revised Code; (3) Auxiliary services reimbursements prescribed under section 3317.064 of the Revised Code. Section 2. That existing section 117.113 of the Revised Code is hereby repealed.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	S. B. No. 48 2025-2026 Senator Ingram A BILL To amend section 117.113 of the Revised Code regarding the auditing of chartered nonpublic schools. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 117.113 of the Revised Code be amended to read as follows: Sec. 117.113. (A) The auditor of state shall audit each science, technology, engineering, and mathematics school established under Chapter 3326. of the Revised Code in accordance with this chapter each fiscal year. (B) Each fiscal year, the auditor of state shall audit the specific funds or accounts of each chartered nonpublic school in the state into which public money has been placed or deposited for that fiscal year. For purposes of this division, "public money" includes any funds the school receives from the state for any of the following: (1) Participation in the educational choice scholarship program established under sections 3310.01 to 3310.17 of the Revised Code; (2) Administrative and clerical cost reimbursements prescribed under section 3317.063 of the Revised Code; (3) Auxiliary services reimbursements prescribed under section 3317.064 of the Revised Code. Section 2. That existing section 117.113 of the Revised Code is hereby repealed.
