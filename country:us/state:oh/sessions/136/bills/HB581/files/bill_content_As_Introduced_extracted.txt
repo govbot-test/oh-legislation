@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 581 2025-2026 Representatives Lett, Odioso To amend section 5163.093 of the Revised Code regarding eligibility for the Medicaid Buy-In For Workers With Disabilities Program and the Ohio WorkAbility Program. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 5163.093 of the Revised Code be amended to read as follows: Sec. 5163.093. For the purpose of determining whether an individual is within the income eligibility limit for the medicaid buy-in for workers with disabilities program, all of the following apply: (A) Twenty thousand dollars of the individual's earned income, unearned income, or a combination of both shall be disregarded. (B) No amount that the individual's employer pays to obtain health insurance for one or more members of the individual's family shall be treated as the individual's income. (C) Any other amounts, if any, specified in rules authorized by section 5163.098 of the Revised Code shall be disregarded from the individual's earned income, unearned income, or both. Section 2. That existing section 5163.093 of the Revised Code is hereby repealed.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 581 2025-2026 Representatives Lett, Odioso To amend section 5163.093 of the Revised Code regarding eligibility for the Medicaid Buy-In For Workers With Disabilities Program and the Ohio WorkAbility Program. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 5163.093 of the Revised Code be amended to read as follows: Sec. 5163.093. For the purpose of determining whether an individual is within the income eligibility limit for the medicaid buy-in for workers with disabilities program, all of the following apply: (A) Twenty thousand dollars of the individual's earned income, unearned income, or a combination of both shall be disregarded. (B) No amount that the individual's employer pays to obtain health insurance for one or more members of the individual's family shall be treated as the individual's income. (C) Any other amounts, if any, specified in rules authorized by section 5163.098 of the Revised Code shall be disregarded from the individual's earned income, unearned income, or both. Section 2. That existing section 5163.093 of the Revised Code is hereby repealed.

@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	S. B. No. 316 2025-2026 Senator Brenner To enact section 4963.50 of the Revised Code to give specified local governments the authority to unilaterally approve an encroachment on a railroad company's right-of-way for certain utility work. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4963.50 of the Revised Code be enacted to read as follows: Sec. 4963.50. (A) As used in this section, "utility provider" has the same meaning as in section 5515.10 of the Revised Code. (B) Notwithstanding any provision of law to the contrary, if a utility provider seeks to conduct work in the interest of health, safety, or public benefit and that work will result in an encroachment on a railroad company's right-of-way or near the railroad company's right-of-way, the utility provider may, in lieu of obtaining the railroad company's permission to engage in such work, apply to either of the following for permission to conduct the work: (1) If the encroachment is proposed inside the territory of a municipal corporation, the legislative authority of the municipal corporation where the encroachment is proposed; (2) If the encroachment is proposed outside of a municipal corporation, the board of county commissioners of the county where the encroachment is proposed. (C) The legislative authority or board of county commissioners may grant permission to a utility provider after giving reasonable notice to any affected railroad company.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	S. B. No. 316 2025-2026 Senator Brenner To enact section 4963.50 of the Revised Code to give specified local governments the authority to unilaterally approve an encroachment on a railroad company's right-of-way for certain utility work. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 4963.50 of the Revised Code be enacted to read as follows: Sec. 4963.50. (A) As used in this section, "utility provider" has the same meaning as in section 5515.10 of the Revised Code. (B) Notwithstanding any provision of law to the contrary, if a utility provider seeks to conduct work in the interest of health, safety, or public benefit and that work will result in an encroachment on a railroad company's right-of-way or near the railroad company's right-of-way, the utility provider may, in lieu of obtaining the railroad company's permission to engage in such work, apply to either of the following for permission to conduct the work: (1) If the encroachment is proposed inside the territory of a municipal corporation, the legislative authority of the municipal corporation where the encroachment is proposed; (2) If the encroachment is proposed outside of a municipal corporation, the board of county commissioners of the county where the encroachment is proposed. (C) The legislative authority or board of county commissioners may grant permission to a utility provider after giving reasonable notice to any affected railroad company.
