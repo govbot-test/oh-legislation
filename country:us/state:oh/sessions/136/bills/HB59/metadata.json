@@ -29,6 +29,10 @@
     {
       "note": "long title",
       "title": "To amend sections 101.63, 103.27, 1531.40, 1533.631, 1533.72, 1561.11, 1561.13, 1561.15, 1561.23, 1561.26, 1563.24, 1565.04, 1565.05, 1565.06, 3319.2213, 3319.51, 3701.83, 3704.14, 3748.01, 3748.04, 3748.11, 3748.13, 3748.16, 3773.31, 3773.33, 3773.34, 3773.35, 3773.36, 3773.37, 3773.38, 3773.39, 3773.40, 3773.41, 3773.42, 3773.421, 3773.43, 3773.45, 3773.51, 3773.52, 3773.53, 3773.54, 3773.55, 3773.56, 3773.57, 3773.59, 3776.05, 4730.10, 4730.14, 4731.294, 4759.08, 4764.05, 4764.08, 4771.02, 4771.05, 4771.07, 4771.08, 4771.09, 4771.10, 4771.11, 4771.12, 4771.13, 4771.14, 4771.16, 4771.18, 4771.21, 4771.22, 4771.23, 4774.03, 4774.06, and 4774.11; to enact sections 3748.131 and 3773.341; and to repeal sections 1561.17, 3748.12, and 3748.121 of the Revised Code to revise and streamline the state's occupational regulations."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 101.63, 103.27, 1531.40, 1533.631, 1533.72, 1561.11, 1561.13, 1561.15, 1561.23, 1561.26, 1563.24, 1565.04, 1565.05, 1565.06, 3319.2213, 3319.51, 3701.83, 3704.14, 3748.01, 3748.04, 3748.11, 3748.13, 3748.16, 3773.31, 3773.33, 3773.34, 3773.35, 3773.36, 3773.37, 3773.38, 3773.39, 3773.40, 3773.41, 3773.42, 3773.421, 3773.43, 3773.45, 3773.51, 3773.52, 3773.53, 3773.54, 3773.55, 3773.56, 3773.57, 3773.59, 3776.05, 4730.10, 4730.14, 4731.294, 4759.08, 4764.05, 4764.08, 4771.02, 4771.05, 4771.07, 4771.08, 4771.09, 4771.10, 4771.11, 4771.12, 4771.13, 4771.14, 4771.16, 4771.18, 4771.21, 4771.22, 4771.23, 4774.03, 4774.06, and 4774.11; to enact sections 3748.131 and 3773.341; and to repeal sections 1561.17, 3748.12, and 3748.121 of the Revised Code to revise and streamline the state's occupational regulations."
     }
   ],
   "other_identifiers": [
@@ -106,6 +110,40 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Government Oversight and Reform Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,9 +210,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Re-Referred to the Senate Government Oversight and Reform Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb59/03_RFS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb59/03_RFS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27055",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -263,6 +327,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb59/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb59/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -273,7 +341,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:37:53.954312Z"
   }
 }

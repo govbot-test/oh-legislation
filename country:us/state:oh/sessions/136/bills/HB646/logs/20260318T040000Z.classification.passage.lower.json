@@ -1,0 +1,48 @@
+{
+  "action": {
+    "description": "Passed - Amended",
+    "occurred_at": "2026-03-18T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb646",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb646/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 646"
+}

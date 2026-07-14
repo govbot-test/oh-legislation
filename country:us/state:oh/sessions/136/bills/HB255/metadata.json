@@ -19,6 +19,10 @@
     {
       "note": "long title",
       "title": "To enact sections 122.97, 122.971, and 122.972 of the Revised Code to create the Ohio Sports Commission."
+    },
+    {
+      "note": "long title",
+      "title": "To enact sections 122.123 and 122.124 of the Revised Code to create the Ohio Sports Council."
     }
   ],
   "other_identifiers": [
@@ -55,6 +59,22 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Arts, Athletics, and Tourism Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -124,14 +144,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Arts, Athletics, and Tourism Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28402",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25363",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28404",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28395",
           "media_type": "application/pdf"
         }
       ],
@@ -148,12 +216,27 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28396",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hb255",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/",
       "note": ""
     },
     {
@@ -169,7 +252,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:35:08.593372Z"
   }
 }

@@ -1,0 +1,125 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 372",
+  "title": "Require centralized reporting for certain financial reports",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance and Appropriations",
+    "State Government",
+    "State and Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To enact section 126.17 of the Revised Code to require the Director of Budget and Management to establish and administer a centralized reporting system for financial status reports regarding public money provided through a grant or loan program, or through an economic development program, a workforce development program, or a public assistance program."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To enact section 126.17 of the Revised Code to require the Director of Budget and Management to establish and administer a centralized reporting system for financial status reports regarding public money provided through a grant or loan program, or through an economic development program, a workforce development program, or a public assistance program."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb372"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tim Schaffer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb372/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb372/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27988",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb372",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb372/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:49Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 866",
+  "title": "Designate Devo Day",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Observances",
+    "Special Designations"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To enact section 5.2541 of the Revised Code to designate the eighteenth day of April as \"Devo Day.\""
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To enact section 5.2541 of the Revised Code to designate the eighteenth day of April as \"Devo Day.\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb866"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Arts, Athletics, and Tourism Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michele Grim",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michele Grim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica R. Sims",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb866/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb866/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb866",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb866/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

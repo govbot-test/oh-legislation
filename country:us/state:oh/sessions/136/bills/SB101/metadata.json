@@ -39,6 +39,14 @@
     {
       "note": "long title",
       "title": "To amend sections 317.08, 3123.67, 4123.78, 4141.23, 5301.071, 5301.255, 5301.99, 5719.04, 5739.13, 5747.13, and 5749.07 and to enact sections 5301.75, 5301.76, 5301.77, and 5301.78 of the Revised Code to require certain liens filed with the county recorder to set forth the last known address of the lien debtor, to require a memorandum of trust or other qualifying instrument concerning real property to be recorded, and to prohibit certain contracts regarding residential real estate."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 317.08, 3123.67, 4123.78, 4141.23, 5301.071, 5301.255, 5301.99, 5719.04, 5739.13, 5747.13, and 5749.07 and to enact sections 5301.75, 5301.76, 5301.77, and 5301.78 of the Revised Code to require certain liens filed with the county recorder to set forth the last known address of the lien debtor, to require a memorandum of trust or other qualifying instrument concerning real property to be recorded, and to prohibit certain contracts regarding residential real estate."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 317.08, 3123.67, 4123.78, 4141.23, 5301.071, 5301.255, 5301.99, 5719.04, 5739.13, 5747.13, and 5749.07 and to enact sections 5301.75, 5301.76, 5301.77, and 5301.78 of the Revised Code to require certain liens filed with the county recorder to set forth the last known address of the lien debtor, to require a memorandum of trust or other qualifying instrument concerning real property to be recorded, and to prohibit certain contracts regarding residential real estate."
     }
   ],
   "other_identifiers": [
@@ -150,6 +158,78 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:26Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendments",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Effective",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Effective 6/16/26",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -223,9 +303,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/04_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/04_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27801",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -264,6 +385,39 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24586",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27638",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27283",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26895",
           "media_type": "application/pdf"
         }
       ],
@@ -336,6 +490,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb101/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -346,7 +508,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:26Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T08:11:35.647364Z"
   }
 }

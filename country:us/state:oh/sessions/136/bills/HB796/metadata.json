@@ -1,0 +1,114 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 796",
+  "title": "Ensure inmates, prisoners housed according to biological sex",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement",
+    "Housing and Real Property",
+    "Prisons and Jails"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 751.08, 5120.10, and 5120.16 of the Revised Code to ensure that jail inmates, city infirmary inmates, and prisoners under control of the department of rehabilitation and correction are housed in accordance with their biological sex."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 751.08, 5120.10, and 5120.16 of the Revised Code to ensure that jail inmates, city infirmary inmates, and prisoners under control of the department of rehabilitation and correction are housed in accordance with their biological sex."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb796"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Public Safety Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Josh Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb796/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb796/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb796",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb796/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

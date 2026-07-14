@@ -24,6 +24,10 @@
     {
       "note": "long title",
       "title": "To amend sections 109.803, 955.54, 955.99, 959.131, 959.99, 2921.321, and 2929.18 and to enact sections 955.55, 955.56, and 955.57 of the Revised Code to prohibit the abuse of a companion animal corpse, to prohibit an animal abuse offender from owning a dog in certain circumstances, and to establish mandatory fines for violations of an animal abuse offense."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 109.79, 955.54, 955.99, 959.131, 959.99, 2921.321, and 2929.18 and to enact sections 955.55, 955.56, and 955.57 of the Revised Code to prohibit the abuse of a companion animal corpse, to prohibit an animal abuse offender from owning a companion animal in certain circumstances, and to establish mandatory fines for violations of an animal abuse offense."
     }
   ],
   "other_identifiers": [
@@ -61,6 +65,22 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Public Safety Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,14 +117,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Public Safety Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb417/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb417/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28420",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25836",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28457",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27187",
           "media_type": "application/pdf"
         }
       ],
@@ -121,6 +189,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb417/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb417/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -131,7 +203,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T08:45:34.337773Z"
   }
 }

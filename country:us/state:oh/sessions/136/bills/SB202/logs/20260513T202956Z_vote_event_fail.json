@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-05-13T20:29:56+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2ba22b00-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 202",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Susan Manchester",
+      "voter_id": "~{\"name\": \"Susan Manchester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew O. Brenner",
+      "voter_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Casey Weinstein",
+      "voter_id": "~{\"name\": \"Casey Weinstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William P. DeMora",
+      "voter_id": "~{\"name\": \"William P. DeMora\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Landis",
+      "voter_id": "~{\"name\": \"Al Landis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sandra O'Brien",
+      "voter_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb202/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1155746"
+}

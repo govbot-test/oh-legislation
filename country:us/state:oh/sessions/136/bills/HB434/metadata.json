@@ -189,6 +189,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective\n\t\t\t\t\t\n\t\t\t\t\tEmergency Act; Appropriations effective 11/25/25; Amendments to R.C. 2303.201 effective March 30, 2026",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective 11/25/25",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,6 +340,17 @@
   ],
   "documents": [
     {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27730",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Analysis: As Reported By Senate Committee",
       "links": [
         {
@@ -341,6 +388,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25871",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27731",
           "media_type": "application/pdf"
         }
       ],
@@ -464,7 +522,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:30:46.159310Z"
   }
 }

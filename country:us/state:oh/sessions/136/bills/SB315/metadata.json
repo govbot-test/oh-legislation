@@ -20,6 +20,26 @@
     {
       "note": "long title",
       "title": "To amend sections 5101.54 and 5101.542 of the Revised Code to require Ohio's SNAP program to begin using chip-enabled EBT cards, to name this act the Enhanced Cybersecurity for SNAP Act, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To require Ohio's SNAP program to begin using chip-enabled EBT cards, to name this act the Enhanced Cybersecurity for SNAP Act, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To require Ohio's SNAP program to begin using chip-enabled EBT cards, to name this act the Enhanced Cybersecurity for SNAP Act, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 109.85, 117.10, 2903.216, 2913.40, 2923.31, 4113.52, 5101.542, 5164.32, 5164.33, 5164.36, 5164.57, 5167.03, and 5167.18 and to enact sections 103.413, 3901.93, 5101.5411, 5162.138, 5162.139, 5162.1311, 5162.17, 5162.19, 5162.90, 5163.05, 5164.11, 5164.12, 5164.13, 5164.292, 5164.302, 5164.303, 5164.304, 5164.305, 5164.331, 5164.332, 5164.40, 5164.401, 5164.402, 5164.403, 5164.404, 5164.405, 5164.406, 5164.41, 5164.42, 5164.421, 5164.43, and 5167.23 of the Revised Code regarding program integrity for certain components of the Medicaid program, regarding the authority of the Attorney General and Auditor of State, to require Ohio's SNAP program to begin using chip-enabled EBT cards, and to name section 5101.542 of the Revised Code as amended in this act and section 5101.5411 of the Revised Code as enacted in this act the Enhanced Cybersecurity for SNAP Act and to name the remainder of this act the Ohio Medicaid Program Integrity and Fraud Prevention Act."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 109.85, 117.10, 2903.216, 2913.40, 2923.31, 4113.52, 5101.542, 5164.32, 5164.33, 5164.36, 5164.57, 5167.03, and 5167.18 and to enact sections 103.413, 3901.93, 5101.5411, 5162.138, 5162.139, 5162.1311, 5162.17, 5162.19, 5162.90, 5163.05, 5164.11, 5164.12, 5164.13, 5164.292, 5164.302, 5164.303, 5164.304, 5164.305, 5164.331, 5164.332, 5164.40, 5164.401, 5164.402, 5164.403, 5164.404, 5164.405, 5164.406, 5164.41, 5164.42, 5164.421, 5164.43, and 5167.23 of the Revised Code regarding program integrity for certain components of the Medicaid program, regarding the authority of the Attorney General and Auditor of State, to require Ohio's SNAP program to begin using chip-enabled EBT cards, and to name section 5101.542 of the Revised Code as amended in this act and section 5101.5411 of the Revised Code as enacted in this act the Enhanced Cybersecurity for SNAP Act and to name the remainder of this act the Ohio Medicaid Program Integrity and Fraud Prevention Act."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 109.85, 117.10, 2903.216, 2913.40, 2923.31, 4113.52, 5101.542, 5164.32, 5164.33, 5164.36, 5164.57, 5167.03, and 5167.18 and to enact sections 103.413, 3901.93, 5101.5411, 5162.138, 5162.139, 5162.1311, 5162.17, 5162.19, 5162.90, 5163.05, 5164.11, 5164.12, 5164.13, 5164.292, 5164.302, 5164.303, 5164.304, 5164.305, 5164.331, 5164.332, 5164.40, 5164.401, 5164.402, 5164.403, 5164.404, 5164.405, 5164.406, 5164.41, 5164.42, 5164.421, 5164.43, and 5167.23 of the Revised Code regarding program integrity for certain components of the Medicaid program, regarding the authority of the Attorney General and Auditor of State, to require Ohio's SNAP program to begin using chip-enabled EBT cards, and to name section 5101.542 of the Revised Code as amended in this act and section 5101.5411 of the Revised Code as enacted in this act the Enhanced Cybersecurity for SNAP Act and to name the remainder of this act the Ohio Medicaid Program Integrity and Fraud Prevention Act."
     }
   ],
   "other_identifiers": [
@@ -56,6 +76,128 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-05-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2026-07-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -125,13 +267,252 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Finance Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/02_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/02_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Finance Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/04_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/04_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28600",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28107",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28030",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27245",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28674",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28622",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28602",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28599",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28091",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28014",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27246",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28601",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28598",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sb315",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb315/",
       "note": ""
     },
     {
@@ -147,7 +528,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:28:29.299383Z"
   }
 }

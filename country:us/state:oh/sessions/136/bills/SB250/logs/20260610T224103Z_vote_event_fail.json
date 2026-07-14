@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T22:41:03+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2c59f3ac-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 250",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jane M. Timken",
+      "voter_id": "~{\"name\": \"Jane M. Timken\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hearcel F. Craig",
+      "voter_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Willis E. Blackshear, Jr.",
+      "voter_id": "~{\"name\": \"Willis E. Blackshear, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew O. Brenner",
+      "voter_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Cutrona",
+      "voter_id": "~{\"name\": \"Al Cutrona\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb250/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1292938"
+}

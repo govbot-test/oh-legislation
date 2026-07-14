@@ -1,0 +1,127 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 359",
+  "title": "Modify tax enforcement authority and sales tax exemption",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Housing and Real Property",
+    "Local Government",
+    "State Government",
+    "State and Local Government",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 323.121, 323.132, 323.31, 718.08, 718.27, 718.88, 718.89, 4503.06, 5703.42, 5703.52, 5703.60, 5703.70, 5717.01, 5717.011, 5717.02, 5721.011, 5726.21, 5739.02, 5745.04, 5747.09, 5747.15, 5747.43, and 5751.06 and to enact sections 5703.59, 5717.021, and 5739.125 of the Revised Code to modify the tax enforcement authority of the Department of Taxation, municipal tax administrators, county treasurers, and the Board of Tax Appeals and to modify a sales tax exemption for automated car wash services."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 323.121, 323.132, 323.31, 718.08, 718.27, 718.88, 718.89, 4503.06, 5703.42, 5703.52, 5703.60, 5703.70, 5717.01, 5717.011, 5717.02, 5721.011, 5726.21, 5739.02, 5745.04, 5747.09, 5747.15, 5747.43, and 5751.06 and to enact sections 5703.59, 5717.021, and 5739.125 of the Revised Code to modify the tax enforcement authority of the Department of Taxation, municipal tax administrators, county treasurers, and the Board of Tax Appeals and to modify a sales tax exemption for automated car wash services."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb359"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Ways and Means Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tim Schaffer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb359/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb359/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27282",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb359",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb359/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

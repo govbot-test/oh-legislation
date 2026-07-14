@@ -1,0 +1,54 @@
+{
+  "action": {
+    "description": "Conference report agreed to",
+    "occurred_at": "2025-12-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/sb56",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb56/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 56"
+}

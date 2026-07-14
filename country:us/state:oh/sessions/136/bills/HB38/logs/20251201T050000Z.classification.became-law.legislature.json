@@ -1,0 +1,44 @@
+{
+  "action": {
+    "description": "Signed By The Governor",
+    "occurred_at": "2025-12-01T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb38",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb38/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 38"
+}

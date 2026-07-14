@@ -21,6 +21,14 @@
     {
       "note": "long title",
       "title": "To amend sections 109.572, 4731.051, 4731.07, 4731.071, 4731.224, 4731.2210, 4731.24, 4731.25, 4731.251, 4776.01, and 4776.20 and to enact sections 3702.3013, 3727.26, 4787.01, 4787.02, 4787.03, 4787.04, 4787.05, 4787.06, 4787.07, 4787.08, 4787.09, 4787.10, 4787.11, 4787.12, 4787.13, 4787.14, 4787.15, 4787.16, 4787.17, 4787.18, 4787.19, 4787.20, 4787.21, 4787.22, and 4787.99 of the Revised Code to regulate the practice of surgical assistants and surgical technologists."
+    },
+    {
+      "note": "long title",
+      "title": "To enact sections 3702.3013 and 3727.26 of the Revised Code regarding the employment of surgical assistants and surgical technologists."
+    },
+    {
+      "note": "long title",
+      "title": "To enact sections 3702.3013 and 3727.26 of the Revised Code regarding the employment of surgical assistants and surgical technologists."
     }
   ],
   "other_identifiers": [
@@ -58,6 +66,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,9 +152,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Health Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/02_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/02_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/03_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/03_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27905",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27874",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
@@ -101,8 +219,34 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27926",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27881",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Notes: As Pending in House Committee",
       "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27505",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://www.legislature.ohio.gov//download?key=26743",
           "media_type": "application/pdf"
@@ -115,7 +259,22 @@
       "note": "Additional Documents: Sub Bill Comparative Synopsis",
       "links": [
         {
+          "url": "https://www.legislature.ohio.gov//download?key=27506",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legislature.ohio.gov//download?key=26744",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Occupational Regulation Report",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27148",
           "media_type": "application/pdf"
         }
       ],
@@ -132,6 +291,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb423/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -142,7 +309,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:25:02.398049Z"
   }
 }

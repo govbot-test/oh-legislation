@@ -1,0 +1,88 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-03T22:57:13+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "2c87b8fa-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 263",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bob Peterson",
+      "voter_id": "~{\"name\": \"Bob Peterson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thaddeus J. Claggett",
+      "voter_id": "~{\"name\": \"Thaddeus J. Claggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Mathews",
+      "voter_id": "~{\"name\": \"Adam Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Roemer",
+      "voter_id": "~{\"name\": \"Bill Roemer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "D. J. Swearingen",
+      "voter_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Thomas",
+      "voter_id": "~{\"name\": \"David Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Young",
+      "voter_id": "~{\"name\": \"Tom Young\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb263/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1224463"
+}

@@ -1,0 +1,40 @@
+{
+  "action": {
+    "description": "Reported",
+    "occurred_at": "2026-04-21T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Senate Armed Services, Veterans Affairs and Public Safety Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/sb218",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb218/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb218/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb218/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb218/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 218"
+}

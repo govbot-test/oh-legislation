@@ -21,6 +21,14 @@
     {
       "note": "long title",
       "title": "To amend section 2305.11 of the Revised Code to provide that for purposes of the one-year limitations period for libel or slander, the cause of action starts from publication of the libelous matter or when the slanderous words were spoken, regardless of when the aggrieved party discovered the libelous matter or slanderous words."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 2305.11 of the Revised Code to increase the limitations period from one year to four years for libel or slander and provide that for purposes of the four-year limitations period for libel or slander, the cause of action starts from publication of the libelous matter or when the slanderous words were spoken, regardless of when the aggrieved party discovered the libelous matter or slanderous words."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 2305.11 of the Revised Code to increase the limitations period from one year to four years for libel or slander and provide that for purposes of the four-year limitations period for libel or slander, the cause of action starts from publication of the libelous matter or when the slanderous words were spoken, regardless of when the aggrieved party discovered the libelous matter or slanderous words."
     }
   ],
   "other_identifiers": [
@@ -57,6 +65,64 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:26Z"
+      }
+    },
+    {
+      "description": "Reported - Amended",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
       }
     }
   ],
@@ -102,14 +168,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Judiciary Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28263",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25938",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28312",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28266",
           "media_type": "application/pdf"
         }
       ],
@@ -137,6 +266,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb441/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -147,7 +284,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:26Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T08:20:27.736130Z"
   }
 }

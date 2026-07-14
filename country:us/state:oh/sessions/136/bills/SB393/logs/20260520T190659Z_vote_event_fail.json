@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-05-20T19:06:59+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2e37758c-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 393",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paula Hicks-Hudson",
+      "voter_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Cutrona",
+      "voter_id": "~{\"name\": \"Al Cutrona\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb393/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1181496"
+}

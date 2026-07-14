@@ -1,0 +1,116 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 370",
+  "title": "Enhance penalties for offenses against a person with a disability",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts",
+    "Courts and Civil Law",
+    "Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement",
+    "Health and Human Services",
+    "Mental Health and Disabilities"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 2903.10, 2903.11, 2903.12, 2903.13, 2903.14, 2903.16, 2903.18, 2903.21, 2903.211, 2903.22, 2903.31, 2905.01, 2905.11, 2905.12, 2905.22, 2905.32, 2907.03, 2907.05, 2909.01, 2909.06, 2909.07, 2911.02, 2911.12, 2913.01, 2913.02, 2913.03, 2913.04, 2913.05, 2913.21, 2913.31, 2913.43, 2913.49, 2913.61, 2917.21, and 2919.25 of the Revised Code to enhance criminal penalties for offenses committed against a person with a disability."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 2903.10, 2903.11, 2903.12, 2903.13, 2903.14, 2903.16, 2903.18, 2903.21, 2903.211, 2903.22, 2903.31, 2905.01, 2905.11, 2905.12, 2905.22, 2905.32, 2907.03, 2907.05, 2909.01, 2909.06, 2909.07, 2911.02, 2911.12, 2913.01, 2913.02, 2913.03, 2913.04, 2913.05, 2913.21, 2913.31, 2913.43, 2913.49, 2913.61, 2917.21, and 2919.25 of the Revised Code to enhance criminal penalties for offenses committed against a person with a disability."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb370"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:51Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mark Romanchuk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb370/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb370/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb370",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb370/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:51Z"
+  }
+}

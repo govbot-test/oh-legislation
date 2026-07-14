@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-03-04T22:38:48+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2f9585a4-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 87",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theresa Gavarone",
+      "voter_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Paula Hicks-Hudson",
+      "voter_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb87/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1023678"
+}

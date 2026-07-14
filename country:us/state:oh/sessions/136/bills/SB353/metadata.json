@@ -1,0 +1,115 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 353",
+  "title": "Regards regulation of internal affairs of domestic corporations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Commerce",
+    "Courts and Civil Law",
+    "State Government",
+    "State and Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To enact sections 1701.031, 1701.592, 1701.593, 1701.594, 1701.595, 1701.596, and 1701.597 of the Revised Code regarding the regulation of the internal affairs of domestic corporations and corporate use of committees of independent and disinterested directors."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To enact sections 1701.031, 1701.592, 1701.593, 1701.594, 1701.595, 1701.596, and 1701.597 of the Revised Code regarding the regulation of the internal affairs of domestic corporations and corporate use of committees of independent and disinterested directors."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb353"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "George F. Lang",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"George F. Lang\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb353/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb353/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb353",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb353/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:49Z"
+  }
+}

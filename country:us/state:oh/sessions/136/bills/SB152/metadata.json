@@ -180,26 +180,38 @@
     },
     {
       "description": "Sent To The Governor",
-      "date": "2025-11-21T05:00:00+00:00",
+      "date": "2026-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:06:24Z"
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     },
     {
-      "description": "Sent to Governor",
-      "date": "2025-11-25T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Effective",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "passage"
+        "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:06:24Z"
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective 3/4/26",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -487,7 +499,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T07:58:41.575950Z"
   }
 }

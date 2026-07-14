@@ -28,6 +28,22 @@
     {
       "note": "long title",
       "title": "To enact section 4732.42 of the Revised Code to ratify the Interstate Compact for School Psychologists."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3313.537, 3319.316, 4511.76, 4731.156, and 5903.12; to enact sections 3301.0717, 3301.0733, 3313.5321, 3313.6025, 3327.103, 4731.191, 4732.42, 4925.11, 4925.12, 4925.13, 4925.14, and 4925.15; and to repeal section 4731.155 of the Revised Code to ratify the Interstate Compact for School Psychologists, to modify the Interstate Massage Compact (IMpact), to require, instead of permit, continuing education for massage therapists, regarding the success sequence curriculum, to authorize a public or private school to transport students using a transportation network company, to require the Department of Education and Workforce to submit a report regarding a single, statewide hybrid assessment system, and to enact the Student Athlete Mobility (SAM) Act regarding student petitions to participate in extracurricular activities at neighboring public schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3313.537, 4731.156, and 5903.12; to enact sections 3301.0717, 3301.0733, 3313.5321, 3313.6025, 4731.191, and 4732.42; and to repeal section 4731.155 of the Revised Code to ratify the Interstate Compact for School Psychologists, to modify the Interstate Massage Compact (IMpact), to require, instead of permit, continuing education for massage therapists, regarding the success sequence curriculum, to require the Department of Education and Workforce to submit a report regarding a single, statewide hybrid assessment system, and to enact the Student Athlete Mobility (SAM) Act regarding student petitions to participate in extracurricular activities at neighboring public schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3313.537, 4731.156, and 5903.12; to enact sections 3301.0717, 3301.0733, 3313.5321, 3313.6025, 4731.191, and 4732.42; and to repeal section 4731.155 of the Revised Code to ratify the Interstate Compact for School Psychologists, to modify the Interstate Massage Compact (IMpact), to require, instead of permit, continuing education for massage therapists, regarding the success sequence curriculum, to require the Department of Education and Workforce to submit a report regarding a single, statewide hybrid assessment system, and to enact the Student Athlete Mobility (SAM) Act regarding student petitions to participate in extracurricular activities at neighboring public schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3313.537, 4731.156, and 5903.12; to enact sections 3301.0717, 3301.0733, 3313.5321, 3313.6025, 4731.191, and 4732.42; and to repeal section 4731.155 of the Revised Code to ratify the Interstate Compact for School Psychologists, to modify the Interstate Massage Compact (IMpact), to require, instead of permit, continuing education for massage therapists, regarding the success sequence curriculum, to require the Department of Education and Workforce to submit a report regarding a single, statewide hybrid assessment system, and to enact the Student Athlete Mobility (SAM) Act regarding student petitions to participate in extracurricular activities at neighboring public schools."
     }
   ],
   "other_identifiers": [
@@ -123,6 +139,92 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Informally passed",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Education Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "The question being, shall the bill as amended pass?",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Passed - Amended",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2026-07-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -181,9 +283,80 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Education Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/04_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/04_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Concurred by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/05_CS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/05_CS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/06_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/06_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28479",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Passed By Senate",
       "links": [
@@ -211,6 +384,50 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26016",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28677",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28617",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28459",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28018",
           "media_type": "application/pdf"
         }
       ],
@@ -249,12 +466,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Floor Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28619",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28547",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28007",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sb276",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb276/",
       "note": ""
     },
     {
@@ -278,7 +544,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T08:41:27.892271Z"
   }
 }

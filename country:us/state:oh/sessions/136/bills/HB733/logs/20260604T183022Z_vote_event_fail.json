@@ -1,0 +1,82 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-04T18:30:22+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "2739e634-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 733",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Roy Klopfenstein",
+      "voter_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnathan Newman",
+      "voter_id": "~{\"name\": \"Johnathan Newman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Cockley",
+      "voter_id": "~{\"name\": \"Christine Cockley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rodney Creech",
+      "voter_id": "~{\"name\": \"Rodney Creech\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Hiner",
+      "voter_id": "~{\"name\": \"Mark Hiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jean Schmidt",
+      "voter_id": "~{\"name\": \"Jean Schmidt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb733/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1241259"
+}

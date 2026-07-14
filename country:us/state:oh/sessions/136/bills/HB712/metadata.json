@@ -1,0 +1,142 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 712",
+  "title": "Revise the laws governing accessible parking",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts and Civil Law",
+    "Crimes, Corrections, and Law Enforcement",
+    "Health and Human Services",
+    "Motor Vehicles",
+    "Public Safety",
+    "Traffic Offenses",
+    "Transportation",
+    "Vehicle Equipment",
+    "Vehicle Registration and Titling"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 311.30, 505.541, 509.04, 3501.29, 3781.111, 4503.038, 4503.10, 4503.12, 4503.41, 4503.44, 4511.69, 4517.12, 4521.01, 4521.02, 4731.481, and 4734.161 and to enact sections 4503.441, 4503.442, 4503.443, 4503.444, 4503.445, 4503.446, 4503.447, 4503.448, 4511.691, 4511.692, 4511.693, 4511.694, 4511.695, 4511.696, 4511.697, 4511.698, and 4511.699 of the Revised Code to make changes to the laws governing accessible parking."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 311.30, 505.541, 509.04, 3501.29, 3781.111, 4503.038, 4503.10, 4503.12, 4503.41, 4503.44, 4511.69, 4517.12, 4521.01, 4521.02, 4731.481, and 4734.161 and to enact sections 4503.441, 4503.442, 4503.443, 4503.444, 4503.445, 4503.446, 4503.447, 4503.448, 4511.691, 4511.692, 4511.693, 4511.694, 4511.695, 4511.696, 4511.697, 4511.698, and 4511.699 of the Revised Code to make changes to the laws governing accessible parking."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb712"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Children and Human Services Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Meredith Craig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Meredith Craig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb712/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb712/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27235",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27831",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb712",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb712/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:49Z"
+  }
+}

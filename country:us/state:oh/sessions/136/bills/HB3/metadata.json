@@ -42,6 +42,14 @@
     {
       "note": "long title",
       "title": "To amend sections 4503.03, 4510.036, 4511.75, 4511.751, and 4511.76 and to enact sections 5.501, 3327.18, and 3327.19 of the Revised Code to address school bus safety, to designate this act as the School Bus Safety Act, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4503.03, 4503.10, 4503.102, 4503.12, 4510.036, 4511.75, 4511.751, and 4511.76 and to enact sections 5.501, 3327.18, 3327.19, 4511.752, 4511.753, 4511.754, 4511.755, 4511.756, and 4511.757 of the Revised Code to address school bus safety, to designate this act as the School Bus Safety Act, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4503.03, 4503.10, 4503.102, 4503.12, 4510.036, 4511.75, 4511.751, and 4511.76 and to enact sections 5.501, 3327.18, 3327.19, 4511.752, 4511.753, 4511.754, 4511.755, 4511.756, and 4511.757 of the Revised Code to address school bus safety, to designate this act as the School Bus Safety Act, and to make an appropriation."
     }
   ],
   "other_identifiers": [
@@ -168,6 +176,34 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Armed Services, Veterans Affairs and Public Safety Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -377,9 +413,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Armed Services, Veterans Affairs and Public Safety Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/05_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/05_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/06_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/06_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28517",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Passed By House",
       "links": [
@@ -422,6 +499,39 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24462",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28605",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28497",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27811",
           "media_type": "application/pdf"
         }
       ],
@@ -475,12 +585,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of Senate Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28571",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hb3",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb3/",
       "note": ""
     },
     {
@@ -512,7 +641,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T08:31:18.582492Z"
   }
 }

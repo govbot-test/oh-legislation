@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Reported - Substitute",
+    "occurred_at": "2026-02-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "House Children and Human Services Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb532",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb532/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb532/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb532/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 532"
+}

@@ -24,6 +24,10 @@
     {
       "note": "long title",
       "title": "To amend sections 4508.02, 4511.03, 4511.12, 4511.132, 4511.17, 4511.20, 4511.202, 4511.204, 4511.205, 4511.21, 4511.211, 4511.213, 4511.22, 4511.23, 4511.25, 4511.251, 4511.26, 4511.27, 4511.28, 4511.29, 4511.30, 4511.31, 4511.32, 4511.33, 4511.34, 4511.35, 4511.36, 4511.37, 4511.38, 4511.39, 4511.41, 4511.42, 4511.43, 4511.431, 4511.44, 4511.441, 4511.451, 4511.46, 4511.47, 4511.54, 4511.57, 4511.58, 4511.59, 4511.60, 4511.61, 4511.64, 4511.71, 4511.711, 4511.712, 4511.72, 4511.73, 4511.991, and 5517.07 and to enact section 4511.993 of the Revised Code regarding traffic offenses in construction zones."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4508.02, 4511.20, 4511.21, 4511.98, and 5501.27 of the Revised Code regarding traffic offenses in construction zones and to name this act the Trenton Gallaway Work Zone Safety Act."
     }
   ],
   "other_identifiers": [
@@ -60,6 +64,22 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:26Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Public Safety Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -129,14 +149,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Public Safety Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28471",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24809",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28495",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27985",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27984",
           "media_type": "application/pdf"
         }
       ],
@@ -153,6 +232,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -163,7 +246,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:26Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:16:55.651187Z"
   }
 }

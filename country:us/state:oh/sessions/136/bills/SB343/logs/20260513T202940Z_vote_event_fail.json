@@ -1,0 +1,89 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "amendment",
+    "committee-passage"
+  ],
+  "start_date": "2026-05-13T20:29:40+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2da573bc-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 343",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Steve Wilson",
+      "voter_id": "~{\"name\": \"Steve Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George F. Lang",
+      "voter_id": "~{\"name\": \"George F. Lang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hearcel F. Craig",
+      "voter_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian M. Chavez",
+      "voter_id": "~{\"name\": \"Brian M. Chavez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William P. DeMora",
+      "voter_id": "~{\"name\": \"William P. DeMora\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas F. Patton",
+      "voter_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb343/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1155751"
+}

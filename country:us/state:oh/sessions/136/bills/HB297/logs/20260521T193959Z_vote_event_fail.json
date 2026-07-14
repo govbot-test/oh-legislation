@@ -1,0 +1,58 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-05-21T19:39:59+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "20f267c4-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 297",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Terry Johnson",
+      "voter_id": "~{\"name\": \"Terry Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hearcel F. Craig",
+      "voter_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas F. Patton",
+      "voter_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb297/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1184182"
+}

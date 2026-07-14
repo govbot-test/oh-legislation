@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T22:41:52+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "203eaef0-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 251",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Terry Johnson",
+      "voter_id": "~{\"name\": \"Terry Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Wilson",
+      "voter_id": "~{\"name\": \"Steve Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Casey Weinstein",
+      "voter_id": "~{\"name\": \"Casey Weinstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hearcel F. Craig",
+      "voter_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Thomas F. Patton",
+      "voter_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb251/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1292936"
+}

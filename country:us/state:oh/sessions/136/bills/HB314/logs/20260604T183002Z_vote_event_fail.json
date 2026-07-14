@@ -1,0 +1,106 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-04T18:30:02+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "214c9078-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 314",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jim Thomas",
+      "voter_id": "~{\"name\": \"Jim Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "D. J. Swearingen",
+      "voter_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Synenberg",
+      "voter_id": "~{\"name\": \"Eric Synenberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Callender",
+      "voter_id": "~{\"name\": \"Jamie Callender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Mathews",
+      "voter_id": "~{\"name\": \"Adam Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Mohamed",
+      "voter_id": "~{\"name\": \"Ismail Mohamed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Odioso",
+      "voter_id": "~{\"name\": \"Mike Odioso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Oelslager",
+      "voter_id": "~{\"name\": \"Scott Oelslager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Brown Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Brown Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Williams",
+      "voter_id": "~{\"name\": \"Josh Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brian Stewart",
+      "voter_id": "~{\"name\": \"Brian Stewart\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb314/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1241263"
+}

@@ -30,6 +30,10 @@
     {
       "note": "long title",
       "title": "To amend section 3101.05 of the Revised Code to require identity verification with photo identification when applying for a marriage license."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 3101.05 of the Revised Code to require identity verification with photo identification when applying for a marriage license."
     }
   ],
   "other_identifiers": [
@@ -125,6 +129,22 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -186,6 +206,21 @@
         },
         {
           "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb386/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Re-Referred to the Senate General Government Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb386/03_RFS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb386/03_RFS/html/",
           "media_type": "text/html"
         }
       ],
@@ -278,6 +313,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb386/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb386/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -288,7 +327,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:11:23.214043Z"
   }
 }

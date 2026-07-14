@@ -22,6 +22,14 @@
     {
       "note": "long title",
       "title": "To amend sections 1336.04, 1336.05, 1336.09, 1337.34, 1337.36, 1337.42, 1337.52, 2117.02, 5701.11, 5801.04, 5801.07, 5806.02, 5806.03, 5808.19, 5810.08, 5812.43, 5815.25, and 5816.11; to enact sections 5808.161, 5818.01, 5818.011, 5818.02, 5818.03, 5818.04, 5818.05, 5818.06, 5818.07, 5818.08, 5818.09, 5818.10, 5818.11, 5818.12, 5818.13, 5818.14, 5818.15, 5818.16, 5818.17, 5818.18, 5818.19, 5818.20, 5818.21, 5818.22, 5818.23, 5818.24, 5818.25, 5818.26, 5818.27, 5818.28, 5818.29, 5818.30, 5818.31, 5818.32, and 5818.33; and to repeal section 5808.08 of the Revised Code to modify trust and probate laws."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1336.04, 1336.05, 1336.09, 1337.34, 1337.36, 1337.42, 1337.52, 2109.21, 2113.06, 2117.02, 5301.071, 5701.11, 5801.04, 5801.07, 5806.02, 5806.03, 5808.19, 5810.08, 5812.43, 5815.25, and 5816.11; to enact sections 5808.161, 5818.01, 5818.011, 5818.02, 5818.03, 5818.04, 5818.05, 5818.06, 5818.07, 5818.08, 5818.09, 5818.10, 5818.11, 5818.12, 5818.13, 5818.14, 5818.15, 5818.16, 5818.17, 5818.18, 5818.19, 5818.20, 5818.21, 5818.22, 5818.23, 5818.24, 5818.25, 5818.26, 5818.27, 5818.28, 5818.29, 5818.30, 5818.31, 5818.32, 5818.33, 5818.34, 5818.35, 5818.36, and 5818.37; and to repeal section 5808.08 of the Revised Code to modify trust and probate laws."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1336.04, 1336.05, 1336.09, 1337.34, 1337.36, 1337.42, 1337.52, 2109.21, 2113.06, 2117.02, 5301.071, 5701.11, 5801.04, 5801.07, 5806.02, 5806.03, 5808.19, 5810.08, 5812.43, 5815.25, and 5816.11; to enact sections 5808.161, 5818.01, 5818.011, 5818.02, 5818.03, 5818.04, 5818.05, 5818.06, 5818.07, 5818.08, 5818.09, 5818.10, 5818.11, 5818.12, 5818.13, 5818.14, 5818.15, 5818.16, 5818.17, 5818.18, 5818.19, 5818.20, 5818.21, 5818.22, 5818.23, 5818.24, 5818.25, 5818.26, 5818.27, 5818.28, 5818.29, 5818.30, 5818.31, 5818.32, 5818.33, 5818.34, 5818.35, 5818.36, and 5818.37; and to repeal section 5808.08 of the Revised Code to modify trust and probate laws."
     }
   ],
   "other_identifiers": [
@@ -59,6 +67,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,14 +161,99 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Judiciary Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28379",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28073",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26039",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28095",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28065",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28049",
           "media_type": "application/pdf"
         }
       ],
@@ -119,12 +270,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28050",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hb446",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb446/",
       "note": ""
     },
     {
@@ -140,7 +310,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T09:08:40.907297Z"
   }
 }

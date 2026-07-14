@@ -31,6 +31,10 @@
     {
       "note": "long title",
       "title": "To amend sections 1923.02, 2950.99, 5321.03, and 5321.051; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 2950.035 (2950.036); and to enact section 2950.035 of the Revised Code to prohibit a sex offender or a child-victim offender from residing within 2,000 feet of the residence of the victim and from loitering within 1,000 feet of the residence of the victim."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1923.02, 2950.99, 5321.03, and 5321.051; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 2950.035 (2950.036); and to enact section 2950.035 of the Revised Code to prohibit a sex offender or a child-victim offender from residing within 2,000 feet of the residence of the victim and from loitering within 1,000 feet of the residence of the victim."
     }
   ],
   "other_identifiers": [
@@ -107,6 +111,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Armed Services, Veterans Affairs and Public Safety Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:51Z"
+      }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:51Z"
       }
     }
   ],
@@ -326,9 +364,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Re-Referred to the Senate Judiciary Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb102/03_RFS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb102/03_RFS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27376",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -402,6 +466,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb102/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb102/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -412,7 +480,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-14T12:59:51Z",
     "text_extraction_latest_update": "2026-07-13T09:36:32.368817Z"
   }
 }

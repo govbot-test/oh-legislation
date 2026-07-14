@@ -1,0 +1,112 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-02-19T01:02:56+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "2f9f0cf0-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 9",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bill Roemer",
+      "voter_id": "~{\"name\": \"Bill Roemer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Thomas",
+      "voter_id": "~{\"name\": \"David Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Click",
+      "voter_id": "~{\"name\": \"Gary Click\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Demetriou",
+      "voter_id": "~{\"name\": \"Steve Demetriou\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Lear",
+      "voter_id": "~{\"name\": \"Beth Lear\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Santucci",
+      "voter_id": "~{\"name\": \"Nick Santucci\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Sigrist",
+      "voter_id": "~{\"name\": \"Mark Sigrist\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Thomas",
+      "voter_id": "~{\"name\": \"Jim Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Elgin Rogers, Jr.",
+      "voter_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb9/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-984732"
+}

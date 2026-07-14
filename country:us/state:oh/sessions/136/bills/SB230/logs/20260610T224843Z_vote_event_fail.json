@@ -1,0 +1,70 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T22:48:43+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "2c1c9796-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 230",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Stephen A. Huffman",
+      "voter_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Catherine D. Ingram",
+      "voter_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theresa Gavarone",
+      "voter_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristina D. Roegner",
+      "voter_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Romanchuk",
+      "voter_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb230/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1292902"
+}

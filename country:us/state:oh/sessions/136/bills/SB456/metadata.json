@@ -1,0 +1,113 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 456",
+  "title": "Make various changes to the consumer installment loan law",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Commerce",
+    "Consumer Finance",
+    "Financial Institutions"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 1321.02, 1321.62, 1321.63, 1321.631, 1321.632, 1321.64, 1321.643, 1321.644, 1321.65, 1321.651, 1321.66, 1321.663, 1321.665, 1321.666, 1321.67, 1321.673, 1321.674, 1321.69, 1321.691, 1321.70, and 1321.701; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 1321.702 (1321.703); and to enact new section 1321.702 of the Revised Code to make various changes to the consumer installment loan law."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1321.02, 1321.62, 1321.63, 1321.631, 1321.632, 1321.64, 1321.643, 1321.644, 1321.65, 1321.651, 1321.66, 1321.663, 1321.665, 1321.666, 1321.67, 1321.673, 1321.674, 1321.69, 1321.691, 1321.70, and 1321.701; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 1321.702 (1321.703); and to enact new section 1321.702 of the Revised Code to make various changes to the consumer installment loan law."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb456"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Financial Institutions, Insurance and Technology Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "George F. Lang",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"George F. Lang\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb456/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb456/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb456",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb456/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

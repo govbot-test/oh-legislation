@@ -1,0 +1,94 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T00:45:09+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "247ef574-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 530",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tom Young",
+      "voter_id": "~{\"name\": \"Tom Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin Ritter",
+      "voter_id": "~{\"name\": \"Kevin Ritter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael D. Dovilla",
+      "voter_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gayle Manning",
+      "voter_id": "~{\"name\": \"Gayle Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Miller, III",
+      "voter_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Brown Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Brown Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Desiree Tims",
+      "voter_id": "~{\"name\": \"Desiree Tims\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb530/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1264273"
+}

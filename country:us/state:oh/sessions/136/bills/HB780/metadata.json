@@ -1,0 +1,124 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 780",
+  "title": "Enact the Medicaid Savings Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health and Human Services",
+    "Medicaid"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 126.021, 126.024, 173.19, 1751.03, 3701.741, 3901.81, 3902.70, 3903.14, 3903.42, 3959.01, 3963.06, 4121.50, 4729.20, 4729.49, 4729.80, 4729.84, 4729.86, 5160.01, 5160.34, 5160.37, 5160.371, 5160.40, 5162.01, 5162.021, 5162.13, 5162.1310, 5162.73, 5164.01, 5164.38, 5164.46, 5164.74, 5164.751, 5166.01, 5166.40, 5166.405, 5166.406, 5168.75, 5168.76, 5739.01, and 5739.03; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 5162.73 (5162.74); to enact new section 5162.73; and to repeal sections 1751.271, 3901.815, 3903.421, 5164.741, 5167.01, 5167.02, 5167.03, 5167.031, 5167.04, 5167.05, 5167.051, 5167.09, 5167.10, 5167.101, 5167.103, 5167.11, 5167.12, 5167.122, 5167.123, 5167.13, 5167.14, 5167.15, 5167.16, 5167.17, 5167.171, 5167.173, 5167.18, 5167.20, 5167.201, 5167.21, 5167.22, 5167.221, 5167.24, 5167.241, 5167.243, 5167.244, 5167.245, 5167.26, 5167.30, 5167.31, 5167.32, 5167.33, 5167.34, 5167.35, 5167.40, 5167.41, 5167.45, 5167.47, and 5739.051 of the Revised Code to eliminate the care management system from the Medicaid program and to name this act the Medicaid Savings Act."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 126.021, 126.024, 173.19, 1751.03, 3701.741, 3901.81, 3902.70, 3903.14, 3903.42, 3959.01, 3963.06, 4121.50, 4729.20, 4729.49, 4729.80, 4729.84, 4729.86, 5160.01, 5160.34, 5160.37, 5160.371, 5160.40, 5162.01, 5162.021, 5162.13, 5162.1310, 5162.73, 5164.01, 5164.38, 5164.46, 5164.74, 5164.751, 5166.01, 5166.40, 5166.405, 5166.406, 5168.75, 5168.76, 5739.01, and 5739.03; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 5162.73 (5162.74); to enact new section 5162.73; and to repeal sections 1751.271, 3901.815, 3903.421, 5164.741, 5167.01, 5167.02, 5167.03, 5167.031, 5167.04, 5167.05, 5167.051, 5167.09, 5167.10, 5167.101, 5167.103, 5167.11, 5167.12, 5167.122, 5167.123, 5167.13, 5167.14, 5167.15, 5167.16, 5167.17, 5167.171, 5167.173, 5167.18, 5167.20, 5167.201, 5167.21, 5167.22, 5167.221, 5167.24, 5167.241, 5167.243, 5167.244, 5167.245, 5167.26, 5167.30, 5167.31, 5167.32, 5167.33, 5167.34, 5167.35, 5167.40, 5167.41, 5167.45, 5167.47, and 5739.051 of the Revised Code to eliminate the care management system from the Medicaid program and to name this act the Medicaid Savings Act."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb780"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Medicaid Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karen Brownlee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen Brownlee\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb780/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb780/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27718",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb780",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb780/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

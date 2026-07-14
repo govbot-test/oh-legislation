@@ -1,0 +1,100 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-03-17T19:34:52+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "1fb0e71e-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 220",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Barhorst",
+      "voter_id": "~{\"name\": \"Tim Barhorst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Cockley",
+      "voter_id": "~{\"name\": \"Christine Cockley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dontavius L. Jarrells",
+      "voter_id": "~{\"name\": \"Dontavius L. Jarrells\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angela N. King",
+      "voter_id": "~{\"name\": \"Angela N. King\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Peterson",
+      "voter_id": "~{\"name\": \"Bob Peterson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb220/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1059269"
+}

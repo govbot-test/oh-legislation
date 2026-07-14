@@ -1,0 +1,100 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T00:47:53+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "2d221954-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SB 306",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Barhorst",
+      "voter_id": "~{\"name\": \"Tim Barhorst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Cockley",
+      "voter_id": "~{\"name\": \"Christine Cockley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tristan Rader",
+      "voter_id": "~{\"name\": \"Tristan Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bride Rose Sweeney",
+      "voter_id": "~{\"name\": \"Bride Rose Sweeney\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Angela N. King",
+      "voter_id": "~{\"name\": \"Angela N. King\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb306/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1264275"
+}

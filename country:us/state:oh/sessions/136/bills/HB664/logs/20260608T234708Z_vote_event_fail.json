@@ -1,0 +1,106 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-08T23:47:08+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "265ec2d4-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 664",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Roy Klopfenstein",
+      "voter_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnathan Newman",
+      "voter_id": "~{\"name\": \"Johnathan Newman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Miller, III",
+      "voter_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Click",
+      "voter_id": "~{\"name\": \"Gary Click\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Cockley",
+      "voter_id": "~{\"name\": \"Christine Cockley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Hiner",
+      "voter_id": "~{\"name\": \"Mark Hiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melanie Miller",
+      "voter_id": "~{\"name\": \"Melanie Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty Moore",
+      "voter_id": "~{\"name\": \"Ty Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Peterson",
+      "voter_id": "~{\"name\": \"Bob Peterson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb664/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1241255"
+}

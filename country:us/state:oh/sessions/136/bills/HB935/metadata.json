@@ -1,0 +1,120 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 935",
+  "title": "Let criminal court make certain mental capacity determinations",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Courts",
+    "Courts and Civil Law",
+    "Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement",
+    "Health and Human Services",
+    "Mental Health and Disabilities",
+    "Prisons and Jails",
+    "Sentencing",
+    "Substance Abuse and Addiction"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 149.43, 2101.24, 2108.90, 2945.38, 2945.39, 2945.401, 5122.01, 5122.02, 5122.03, 5122.05, 5122.09, 5122.10, 5122.11, 5122.111, 5122.112, 5122.12, 5122.13, 5122.14, 5122.141, 5122.15, 5122.20, 5122.23, 5122.25, 5122.26, 5122.27, 5122.271, 5122.29, 5122.31, 5122.311, 5122.35, 5122.36, 5122.38, 5122.41, 5122.43, 5123.01, 5123.21, 5123.39, 5123.57, 5123.58, 5123.61, 5123.70, 5123.71, 5123.73, 5123.74, 5123.75, 5123.76, 5123.79, 5123.81, 5123.811, 5123.86, 5123.89, 5123.92, 5123.95, 5123.96, and 5123.97 and to enact section 5122.051 of the Revised Code to allow a criminal court to determine whether a defendant is a mentally ill person subject to a court order or a person with an intellectual disability subject to institutionalization if the criminal court is determining whether the defendant is competent to stand trial."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 149.43, 2101.24, 2108.90, 2945.38, 2945.39, 2945.401, 5122.01, 5122.02, 5122.03, 5122.05, 5122.09, 5122.10, 5122.11, 5122.111, 5122.112, 5122.12, 5122.13, 5122.14, 5122.141, 5122.15, 5122.20, 5122.23, 5122.25, 5122.26, 5122.27, 5122.271, 5122.29, 5122.31, 5122.311, 5122.35, 5122.36, 5122.38, 5122.41, 5122.43, 5123.01, 5123.21, 5123.39, 5123.57, 5123.58, 5123.61, 5123.70, 5123.71, 5123.73, 5123.74, 5123.75, 5123.76, 5123.79, 5123.81, 5123.811, 5123.86, 5123.89, 5123.92, 5123.95, 5123.96, and 5123.97 and to enact section 5122.051 of the Revised Code to allow a criminal court to determine whether a defendant is a mentally ill person subject to a court order or a person with an intellectual disability subject to institutionalization if the criminal court is determining whether the defendant is competent to stand trial."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb935"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Josh Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb935/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb935/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb935",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb935/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

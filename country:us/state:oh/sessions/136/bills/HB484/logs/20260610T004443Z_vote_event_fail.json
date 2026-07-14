@@ -1,0 +1,106 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T00:44:43+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "23de494e-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 484",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andrea White",
+      "voter_id": "~{\"name\": \"Andrea White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jodi Salvo",
+      "voter_id": "~{\"name\": \"Jodi Salvo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crystal Lett",
+      "voter_id": "~{\"name\": \"Crystal Lett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darnell T. Brewer",
+      "voter_id": "~{\"name\": \"Darnell T. Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ashley Bryant Bailey",
+      "voter_id": "~{\"name\": \"Ashley Bryant Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Click",
+      "voter_id": "~{\"name\": \"Gary Click\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melanie Miller",
+      "voter_id": "~{\"name\": \"Melanie Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharon A. Ray",
+      "voter_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sarah Fowler Arthur",
+      "voter_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb484/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1264271"
+}

@@ -36,6 +36,10 @@
     {
       "note": "long title",
       "title": "To amend sections 4909.042, 4909.05, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.159, 4909.173, 4909.174, 4909.18, 4909.421, 4928.01, and 4928.05 and to enact sections 4909.157, 4909.182, 4929.052, 4929.053, 4929.054, 4929.055, 4929.056, 4929.057, and 4929.058 of the Revised Code to allow for alternative rate plans for natural gas companies to serve large load customers and to make changes to the process of valuating property for certain public utilities."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4909.042, 4909.05, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.159, 4909.173, 4909.174, 4909.18, 4909.421, 4928.01, and 4928.05 and to enact sections 4909.157, 4909.182, 4929.052, 4929.053, 4929.054, 4929.055, 4929.056, 4929.057, and 4929.058 of the Revised Code to allow for alternative rate plans for natural gas companies to serve large load customers and to make changes to the process of valuating property for certain public utilities."
     }
   ],
   "other_identifiers": [
@@ -159,6 +163,54 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Sent To The Governor",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Effective",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Effective 3/20/26",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -247,9 +299,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb103/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb103/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27554",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -288,6 +366,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24721",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26951",
           "media_type": "application/pdf"
         }
       ],
@@ -386,6 +475,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb103/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb103/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -396,7 +489,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T08:11:23.135701Z"
   }
 }

@@ -21,6 +21,10 @@
     {
       "note": "long title",
       "title": "To amend sections 5725.38, 5725.98, 5726.61, 5726.98, 5729.21, 5729.98, 5747.86, and 5747.98 and to enact section 122.841 of the Revised Code to authorize a nonrefundable, transferable tax credit for charitable organizations that construct owner-occupied housing and to name this act the Promised Land Act."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 5725.38, 5725.98, 5726.61, 5726.98, 5729.21, 5729.98, 5747.86, and 5747.98 and to enact section 122.841 of the Revised Code to authorize a nonrefundable, transferable tax credit for charitable organizations that construct student housing or owner-occupied housing and to name this act the Promised Land Act."
     }
   ],
   "other_identifiers": [
@@ -58,6 +62,22 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Housing Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,14 +106,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Housing Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb250/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb250/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28759",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25940",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28730",
           "media_type": "application/pdf"
         }
       ],
@@ -121,6 +178,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb250/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb250/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -131,7 +192,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:36:13.552239Z"
   }
 }

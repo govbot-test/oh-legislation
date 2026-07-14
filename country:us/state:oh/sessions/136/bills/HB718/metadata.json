@@ -1,0 +1,290 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 718",
+  "title": "Revise the Chemical Dependency Professionals Board and duties",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health and Human Services",
+    "Occupational Licensing and Regulation",
+    "State Government",
+    "State and Local Government",
+    "Substance Abuse and Addiction"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 107.56, 126.42, 340.04, 4743.09, 4745.04, 4757.41, 4758.01, 4758.02, 4758.03, 4758.10, 4758.11, 4758.12, 4758.13, 4758.15, 4758.16, 4758.17, 4758.20, 4758.21, 4758.22, 4758.221, 4758.23, 4758.24, 4758.25, 4758.26, 4758.27, 4758.28, 4758.29, 4758.30, 4758.31, 4758.32, 4758.35, 4758.36, 4758.39, 4758.40, 4758.41, 4758.42, 4758.43, 4758.44, 4758.45, 4758.46, 4758.47, 4758.48, 4758.51, 4758.54, 4758.55, 4758.56, 4758.57, 4758.59, 4758.62, 4758.63, 4758.64, 4758.70, 4758.72, 4776.01, 4776.20, 5119.94, and 5122.15; to enact sections 4758.011, 4758.38, 4758.49, 4758.491, 4758.65, 4758.651, 4758.66, and 4758.661; and to repeal section 4758.52 of the Revised Code to change the name of the Chemical Dependency Professionals Board to the Behavioral Health Professionals Board, to require the Board to certify peer supporters and qualified mental health professionals, and to make other changes to the laws governing the Board and the professionals it regulates."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 107.56, 126.42, 340.04, 4743.09, 4745.04, 4757.41, 4758.01, 4758.02, 4758.03, 4758.10, 4758.11, 4758.12, 4758.13, 4758.15, 4758.16, 4758.17, 4758.20, 4758.21, 4758.22, 4758.221, 4758.23, 4758.24, 4758.25, 4758.26, 4758.27, 4758.28, 4758.29, 4758.30, 4758.31, 4758.32, 4758.35, 4758.36, 4758.39, 4758.40, 4758.41, 4758.42, 4758.43, 4758.44, 4758.45, 4758.46, 4758.47, 4758.48, 4758.51, 4758.54, 4758.55, 4758.56, 4758.57, 4758.59, 4758.62, 4758.63, 4758.64, 4758.70, 4758.72, 4776.01, 4776.20, 5119.94, and 5122.15; to enact sections 4758.011, 4758.38, 4758.49, 4758.491, 4758.65, 4758.651, 4758.66, and 4758.661; and to repeal section 4758.52 of the Revised Code to change the name of the Chemical Dependency Professionals Board to the Behavioral Health Professionals Board, to require the Board to certify peer supporters and qualified mental health professionals, and to make other changes to the laws governing the Board and the professionals it regulates."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 107.56, 126.42, 340.04, 4743.09, 4745.04, 4757.41, 4758.01, 4758.02, 4758.03, 4758.10, 4758.11, 4758.12, 4758.13, 4758.15, 4758.16, 4758.17, 4758.20, 4758.21, 4758.22, 4758.221, 4758.23, 4758.24, 4758.25, 4758.26, 4758.27, 4758.28, 4758.29, 4758.30, 4758.31, 4758.32, 4758.35, 4758.36, 4758.39, 4758.40, 4758.41, 4758.42, 4758.43, 4758.44, 4758.45, 4758.46, 4758.47, 4758.48, 4758.51, 4758.54, 4758.55, 4758.56, 4758.57, 4758.59, 4758.62, 4758.63, 4758.64, 4758.70, 4758.72, 4776.01, 4776.20, 5119.94, and 5122.15; to enact sections 4758.011, 4758.38, 4758.49, 4758.491, 4758.65, 4758.651, 4758.66, and 4758.661; and to repeal section 4758.52 of the Revised Code to change the name of the Chemical Dependency Professionals Board to the Behavioral Health Professionals Board, to require the Board to certify peer supporters and qualified mental health professionals, and to make other changes to the laws governing the Board and the professionals it regulates."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb718"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Community Revitalization Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Community Revitalization Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Informally passed",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Informally passed",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karen Brownlee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen Brownlee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Salvo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jodi Salvo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juanita O. Brent",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crystal Lett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crystal Lett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beryl Piccolantonio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tristan Rader",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tristan Rader\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Allison Russo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C. Allison Russo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the House Community Revitalization Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28355",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27461",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28255",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27572",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Occupational Regulation Report",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28214",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb718",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb718/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}

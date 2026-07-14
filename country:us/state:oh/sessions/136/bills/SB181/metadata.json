@@ -22,6 +22,14 @@
     {
       "note": "long title",
       "title": "To amend sections 1514.01, 1514.02, 1514.021, 1514.022, 1514.023, 1514.024, 1514.03, 1514.04, 1514.05, 1514.07, 1514.071, 1514.08, 1514.09, 1514.11, 1514.40, 1514.41, 1514.42, 1514.43, 1514.44, 1514.45, 1514.46, 1514.50, 1514.99, 1563.11, and 5749.02 and to enact sections 1514.091, 1514.092, 1514.093, 1514.48, 1514.60, 1514.61, 1514.62, 1514.63, 1514.64, 1514.65, 1514.66, 1514.67, 1514.68, 1514.69, 1514.70, 1514.71, and 1514.72 of the Revised Code to establish regulations for the underground mining of limestone and dolomite and to increase certain severance tax rates."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1514.01, 1514.02, 1514.021, 1514.022, 1514.023, 1514.024, 1514.03, 1514.04, 1514.05, 1514.07, 1514.071, 1514.08, 1514.09, 1514.11, 1514.13, 1514.40, 1514.41, 1514.42, 1514.43, 1514.44, 1514.45, 1514.46, 1514.50, 1514.99, and 1563.11 and to enact sections 1514.091, 1514.092, 1514.093, 1514.48, 1514.60, 1514.61, 1514.62, 1514.63, 1514.64, 1514.65, 1514.66, 1514.67, 1514.68, 1514.69, 1514.70, and 1514.71 of the Revised Code to establish regulations for the underground mining of limestone and dolomite."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1514.01, 1514.02, 1514.021, 1514.022, 1514.023, 1514.024, 1514.03, 1514.04, 1514.05, 1514.07, 1514.071, 1514.08, 1514.09, 1514.11, 1514.13, 1514.40, 1514.41, 1514.42, 1514.43, 1514.44, 1514.45, 1514.46, 1514.50, 1514.99, and 1563.11 and to enact sections 1514.091, 1514.092, 1514.093, 1514.48, 1514.60, 1514.61, 1514.62, 1514.63, 1514.64, 1514.65, 1514.66, 1514.67, 1514.68, 1514.69, 1514.70, and 1514.71 of the Revised Code to establish regulations for the underground mining of limestone and dolomite."
     }
   ],
   "other_identifiers": [
@@ -59,6 +67,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Agriculture and Natural Resources Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Natural Resources Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,9 +153,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Agriculture and Natural Resources Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/02_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/02_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27903",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27777",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
@@ -102,10 +220,21 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27901",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Notes: As Reported By Senate Committee",
       "links": [
         {
-          "url": "https://www.legislature.ohio.gov//download?key=26833",
+          "url": "https://www.legislature.ohio.gov//download?key=27749",
           "media_type": "application/pdf"
         }
       ],
@@ -122,12 +251,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27738",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sb181",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb181/",
       "note": ""
     },
     {
@@ -143,7 +291,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T08:01:05.877734Z"
   }
 }

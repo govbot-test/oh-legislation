@@ -32,6 +32,14 @@
     {
       "note": "long title",
       "title": "To support and encourage the work of the American Legion Buckeye Boys State and the American Legion Auxiliary Buckeye Girls State in providing a premier educational and leadership program to the youth of Ohio."
+    },
+    {
+      "note": "long title",
+      "title": "To support and encourage the work of the American Legion Buckeye Boys State and the American Legion Auxiliary Buckeye Girls State in providing a premier educational and leadership program to the youth of Ohio."
+    },
+    {
+      "note": "long title",
+      "title": "To support and encourage the work of the American Legion Buckeye Boys State and the American Legion Auxiliary Buckeye Girls State in providing a premier educational and leadership program to the youth of Ohio."
     }
   ],
   "other_identifiers": [
@@ -131,6 +139,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -389,6 +409,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Adopted by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/04_AS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/04_AS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,6 +446,14 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hcr7",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr7/",
       "note": ""
     },
     {
@@ -423,7 +481,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T08:43:08.064734Z"
   }
 }

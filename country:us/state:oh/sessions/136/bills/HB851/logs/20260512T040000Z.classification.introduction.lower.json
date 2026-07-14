@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced",
+    "occurred_at": "2026-05-12T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb851",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb851/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 851"
+}

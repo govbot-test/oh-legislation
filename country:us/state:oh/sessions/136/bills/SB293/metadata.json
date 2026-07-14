@@ -36,6 +36,10 @@
     {
       "note": "long title",
       "title": "To amend sections 3501.01, 3503.13, 3503.151, 3503.152, 3503.18, 3503.19, 3503.21, 3505.18, 3505.181, 3505.182, 3505.183, 3505.20, 3509.05, and 3517.14 and to enact section 3503.201 of the Revised Code to modify the law governing voter roll maintenance, provisional voting, the return of absent voter's ballots, and the membership of the Ohio Election Integrity Commission."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3501.01, 3503.13, 3503.151, 3503.152, 3503.18, 3503.19, 3503.21, 3505.18, 3505.181, 3505.182, 3505.183, 3505.20, 3509.05, and 3517.14 and to enact section 3503.201 of the Revised Code to modify the law governing voter roll maintenance, provisional voting, the return of absent voter's ballots, and the membership of the Ohio Election Integrity Commission."
     }
   ],
   "other_identifiers": [
@@ -149,6 +153,18 @@
       }
     },
     {
+      "description": "Passed",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
       "description": "Concurred in House amendments",
       "date": "2025-11-19T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -161,15 +177,51 @@
       }
     },
     {
-      "description": "Passed",
-      "date": "2025-11-19T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Sent To The Governor",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:06:25Z"
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective 3/20/26",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
       }
     }
   ],
@@ -267,9 +319,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb293/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb293/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26939",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -308,6 +386,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26182",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=26904",
           "media_type": "application/pdf"
         }
       ],
@@ -406,6 +495,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb293/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb293/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -416,7 +509,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T08:49:39.408950Z"
   }
 }

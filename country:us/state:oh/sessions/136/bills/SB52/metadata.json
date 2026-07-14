@@ -28,6 +28,18 @@
     {
       "note": "long title",
       "title": "To enact section 5534.59 of the Revised Code to designate a portion of U.S. Route 33 in Fairfield County and I-70 in Clark County as the \"Congressman David Hobson Memorial Highway.\""
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4501.21 and 5910.07 and to enact sections 4503.472, 4503.4913, 4503.537, 4503.599, 4503.705, 4503.717, 4503.727, 4503.736, 4503.739, 4503.742, 4503.861, 4503.889, 4503.897, 4503.898, 4503.912, 4503.937, 4503.938, 4503.939, 4503.947, 5534.102, 5534.141, 5534.155, 5534.428, 5534.429, 5534.443, 5534.444, 5534.451, 5534.454, 5534.455, 5534.456, 5534.482, 5534.59, 5534.607, 5534.609, 5534.617, 5534.619, 5534.621, 5534.645, 5534.654, 5534.657, 5534.668, 5534.855, 5534.857, 5534.921, 5534.922, 5534.926, 5534.927, 5534.931, 5534.932, 5534.966, 5534.968, 5534.971, 5534.973, and 5534.975 of the Revised Code to designate multiple memorial highways and to create multiple specialty license plates."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4501.21 and 5910.07 and to enact sections 4503.472, 4503.4913, 4503.537, 4503.599, 4503.705, 4503.717, 4503.727, 4503.736, 4503.739, 4503.742, 4503.861, 4503.889, 4503.897, 4503.898, 4503.912, 4503.937, 4503.938, 4503.939, 4503.947, 5534.102, 5534.141, 5534.155, 5534.428, 5534.429, 5534.443, 5534.444, 5534.451, 5534.454, 5534.455, 5534.456, 5534.482, 5534.59, 5534.607, 5534.609, 5534.617, 5534.619, 5534.621, 5534.645, 5534.654, 5534.657, 5534.668, 5534.855, 5534.857, 5534.921, 5534.922, 5534.926, 5534.927, 5534.931, 5534.932, 5534.966, 5534.968, 5534.971, 5534.973, and 5534.975 of the Revised Code to designate multiple memorial highways and to create multiple specialty license plates."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4501.21 and 5910.07 and to enact sections 4503.472, 4503.4913, 4503.537, 4503.599, 4503.705, 4503.717, 4503.727, 4503.736, 4503.739, 4503.742, 4503.861, 4503.889, 4503.897, 4503.898, 4503.912, 4503.937, 4503.938, 4503.939, 4503.947, 5534.102, 5534.141, 5534.155, 5534.428, 5534.429, 5534.443, 5534.444, 5534.451, 5534.454, 5534.455, 5534.456, 5534.482, 5534.59, 5534.607, 5534.609, 5534.617, 5534.619, 5534.621, 5534.645, 5534.654, 5534.657, 5534.668, 5534.855, 5534.857, 5534.921, 5534.922, 5534.926, 5534.927, 5534.931, 5534.932, 5534.966, 5534.968, 5534.971, 5534.973, and 5534.975 of the Revised Code to designate multiple memorial highways and to create multiple specialty license plates."
     }
   ],
   "other_identifiers": [
@@ -123,6 +135,82 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Transportation Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Signed By The Governor",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Effective 9/23/26",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -213,9 +301,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Transportation Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/04_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/04_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28431",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Passed By Senate",
       "links": [
@@ -250,6 +394,61 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28675",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28519",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28438",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28428",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27253",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Notes: As Reported By Senate Committee",
       "links": [
         {
@@ -265,6 +464,28 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24471",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28453",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28427",
           "media_type": "application/pdf"
         }
       ],
@@ -289,6 +510,18 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb52/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -299,7 +532,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:50Z",
     "text_extraction_latest_update": "2026-07-13T09:29:48.891223Z"
   }
 }

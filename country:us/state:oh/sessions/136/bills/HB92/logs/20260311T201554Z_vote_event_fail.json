@@ -1,0 +1,112 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-03-11T20:15:54+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "296ff920-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "HB 92",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Angela N. King",
+      "voter_id": "~{\"name\": \"Angela N. King\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Kishman",
+      "voter_id": "~{\"name\": \"Matthew Kishman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cindy Abrams",
+      "voter_id": "~{\"name\": \"Cindy Abrams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rodney Creech",
+      "voter_id": "~{\"name\": \"Rodney Creech\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sarah Fowler Arthur",
+      "voter_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roy Klopfenstein",
+      "voter_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty Moore",
+      "voter_id": "~{\"name\": \"Ty Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jean Schmidt",
+      "voter_id": "~{\"name\": \"Jean Schmidt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sean P. Brennan",
+      "voter_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Meredith R. Lawson-Rowe",
+      "voter_id": "~{\"name\": \"Meredith R. Lawson-Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jason Stephens",
+      "voter_id": "~{\"name\": \"Jason Stephens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cecil Thomas",
+      "voter_id": "~{\"name\": \"Cecil Thomas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1037085"
+}

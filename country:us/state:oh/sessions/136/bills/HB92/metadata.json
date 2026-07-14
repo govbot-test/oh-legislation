@@ -23,6 +23,14 @@
     {
       "note": "long title",
       "title": "To amend sections 321.261, 701.10, 729.49, 735.29, 743.04, and 743.06 and to enact sections 319.65, 701.101, 701.102, 701.103, 701.20, 701.21, 701.22, 701.23, 701.24, 701.25, 701.26, 701.30, 701.31, 701.32, 701.33, 701.35, 701.36, 701.37, 701.38, 701.39, 701.40, 729.491, 729.492, 729.493, 735.291, 735.292, 743.041, 743.042, 1901.187, and 1907.033 of the Revised Code regarding limitations on recovery and lien imposition by municipalities against property owners of non-owner-occupied properties for unpaid water, sewer, and disposal services rates and charges."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 729.49, 735.29, and 743.04 and to enact sections 743.51, 743.52, 743.53, and 743.54 of the Revised Code regarding unpaid municipal utility services."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 729.49, 735.29, and 743.04 and to enact sections 743.51, 743.52, 743.53, and 743.54 of the Revised Code regarding unpaid municipal utility services."
     }
   ],
   "other_identifiers": [
@@ -59,6 +67,64 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Local Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Local Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:49Z"
       }
     }
   ],
@@ -120,9 +186,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Local Government Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/02_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/02_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/03_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/03_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27529",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27453",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
@@ -135,8 +253,34 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27665",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27481",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Notes: As Pending in House Committee",
       "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=27142",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://www.legislature.ohio.gov//download?key=26612",
           "media_type": "application/pdf"
@@ -160,6 +304,10 @@
       "note": "Additional Documents: Sub Bill Comparative Synopsis",
       "links": [
         {
+          "url": "https://www.legislature.ohio.gov//download?key=27110",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legislature.ohio.gov//download?key=26608",
           "media_type": "application/pdf"
         }
@@ -177,6 +325,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb92/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -187,7 +343,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-14T12:59:49Z",
     "text_extraction_latest_update": "2026-07-13T08:35:44.991683Z"
   }
 }

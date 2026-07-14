@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Reported - Re-referred to Rules and Reference",
+    "occurred_at": "2026-06-09T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "136",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "House Children and Human Services Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.legislature.ohio.gov/legislation/136/hb484",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb484/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb484/",
+        "note": ""
+      },
+      {
+        "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb484/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 484"
+}

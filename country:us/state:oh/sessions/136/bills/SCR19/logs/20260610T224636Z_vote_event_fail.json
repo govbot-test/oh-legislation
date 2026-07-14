@@ -1,0 +1,76 @@
+{
+  "identifier": "",
+  "motion_text": "Reported",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-10T22:46:36+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "3592d416-7f7b-11f1-8c68-6e40a564de15",
+  "bill_action": null,
+  "bill_identifier": "SCR 19",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Koehler",
+      "voter_id": "~{\"name\": \"Kyle Koehler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paula Hicks-Hudson",
+      "voter_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Landis",
+      "voter_id": "~{\"name\": \"Al Landis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shane Wilkin",
+      "voter_id": "~{\"name\": \"Shane Wilkin\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/scr19/actions",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "vote-revno-1292916"
+}

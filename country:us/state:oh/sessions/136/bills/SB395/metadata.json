@@ -1,0 +1,125 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 395",
+  "title": "Implement top-three primary, consensus general election system",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Election Administration",
+    "Elections",
+    "State and Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 111.27, 3501.01, 3501.06, 3501.22, 3501.23, 3505.03, 3505.04, 3505.08, 3505.10, 3505.23, 3505.27, 3505.33, 3505.34, 3505.35, 3505.36, 3505.37, 3506.11, 3509.03, 3509.04, 3511.02, 3511.05, 3513.01, 3513.02, 3513.04, 3513.041, 3513.05, 3513.052, 3513.07, 3513.08, 3513.10, 3513.12, 3513.121, 3513.13, 3513.14, 3513.15, 3513.18, 3513.19, 3513.20, 3513.22, 3513.24, 3513.251, 3513.253, 3513.254, 3513.255, 3513.257, 3513.261, 3513.263, 3513.30, 3513.31, 3513.311, 3513.32, 3513.33, 3517.01, 3517.012, 3517.016, 3517.02, and 3517.03; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3513.041 (3505.101); to enact section 3505.301; and to repeal sections 3513.16, 3513.191, 3513.192, 3513.23, 3513.256, 3513.262, 3513.28, 3513.301, 3513.312, 3517.013, and 3517.014 of the Revised Code to implement a top-three primary election system and a consensus choice general election system for congressional, state, and local offices."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 111.27, 3501.01, 3501.06, 3501.22, 3501.23, 3505.03, 3505.04, 3505.08, 3505.10, 3505.23, 3505.27, 3505.33, 3505.34, 3505.35, 3505.36, 3505.37, 3506.11, 3509.03, 3509.04, 3511.02, 3511.05, 3513.01, 3513.02, 3513.04, 3513.041, 3513.05, 3513.052, 3513.07, 3513.08, 3513.10, 3513.12, 3513.121, 3513.13, 3513.14, 3513.15, 3513.18, 3513.19, 3513.20, 3513.22, 3513.24, 3513.251, 3513.253, 3513.254, 3513.255, 3513.257, 3513.261, 3513.263, 3513.30, 3513.31, 3513.311, 3513.32, 3513.33, 3517.01, 3517.012, 3517.016, 3517.02, and 3517.03; to amend, for the purpose of adopting a new section number as indicated in parentheses, section 3513.041 (3505.101); to enact section 3505.301; and to repeal sections 3513.16, 3513.191, 3513.192, 3513.23, 3513.256, 3513.262, 3513.28, 3513.301, 3513.312, 3517.013, and 3517.014 of the Revised Code to implement a top-three primary election system and a consensus choice general election system for congressional, state, and local offices."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-sb395"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T12:59:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Louis W. Blessing, III",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb395/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb395/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28373",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb395",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb395/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T12:59:50Z"
+  }
+}
