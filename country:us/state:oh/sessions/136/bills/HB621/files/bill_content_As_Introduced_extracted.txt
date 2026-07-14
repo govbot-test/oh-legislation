@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 621 2025-2026 Representatives Grim, McNally Cosponsors: Representatives Brennan, Brownlee, Upchurch A BILL To amend section 956.181 and to repeal section 956.23 of the Revised Code to alter the law governing the regulation of pet stores. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 956.181 of the Revised Code be amended to read as follows: Sec. 956.181. (A) All money collected by the director of agriculture from license fees under section 956.21 and civil penalties assessed under section 956.22 of the Revised Code shall be deposited in the state treasury to the credit of the pet store license fund, which is hereby created. The fund shall also consist of money appropriated to it. (B) The director shall use the money in the fund for the purpose of administering sections 956.19 to 956.23 956.22 of the Revised Code and rules adopted under section 956.03 of the Revised Code as those rules apply to those sections. Section 2. That existing section 956.181 of the Revised Code is hereby repealed. Section 3. That section 956.23 of the Revised Code is hereby repealed.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 621 2025-2026 Representatives Grim, McNally Cosponsors: Representatives Brennan, Brownlee, Upchurch A BILL To amend section 956.181 and to repeal section 956.23 of the Revised Code to alter the law governing the regulation of pet stores. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 956.181 of the Revised Code be amended to read as follows: Sec. 956.181. (A) All money collected by the director of agriculture from license fees under section 956.21 and civil penalties assessed under section 956.22 of the Revised Code shall be deposited in the state treasury to the credit of the pet store license fund, which is hereby created. The fund shall also consist of money appropriated to it. (B) The director shall use the money in the fund for the purpose of administering sections 956.19 to 956.23 956.22 of the Revised Code and rules adopted under section 956.03 of the Revised Code as those rules apply to those sections. Section 2. That existing section 956.181 of the Revised Code is hereby repealed. Section 3. That section 956.23 of the Revised Code is hereby repealed.
