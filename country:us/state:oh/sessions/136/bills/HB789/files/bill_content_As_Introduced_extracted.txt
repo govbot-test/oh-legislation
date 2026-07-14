@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 789 2025-2026 Representative Hall, T. To enact section 3722.15 of the Revised Code to require hospital and freestanding emergency departments to be supervised by physicians. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3722.15 of the Revised Code be enacted to read as follows: Sec. 3722.15. (A) As used in this section: (1) "Freestanding emergency department" means a facility that provides emergency care and is structurally separate and distinct from a hospital. (2) "Physician" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery. (B) During hospital emergency department or freestanding emergency department hours of operation, the hospital or facility shall ensure that each of the following is the case: (1) A physician is on duty and physically present at the emergency department. (2) A physician supervises the emergency department's medical and nursing staff and is immediately available to the staff. (3) A physician coordinates the emergency department's provision of emergency care, including by being continuously involved in appropriate components of such care.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 789 2025-2026 Representative Hall, T. To enact section 3722.15 of the Revised Code to require hospital and freestanding emergency departments to be supervised by physicians. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3722.15 of the Revised Code be enacted to read as follows: Sec. 3722.15. (A) As used in this section: (1) "Freestanding emergency department" means a facility that provides emergency care and is structurally separate and distinct from a hospital. (2) "Physician" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery. (B) During hospital emergency department or freestanding emergency department hours of operation, the hospital or facility shall ensure that each of the following is the case: (1) A physician is on duty and physically present at the emergency department. (2) A physician supervises the emergency department's medical and nursing staff and is immediately available to the staff. (3) A physician coordinates the emergency department's provision of emergency care, including by being continuously involved in appropriate components of such care.

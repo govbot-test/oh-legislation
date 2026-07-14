@@ -1,0 +1,16 @@
+Title: hb861_00_IN
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+hb861_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 861 2025-2026 Representatives Troy, Schmidt Cosponsors: Representatives Brennan, Brewer, Piccolantonio, Glassburn, Grim, McNally, Miller, J., Rader, Russo, Sims, Somani, Synenberg, Upchurch, White, E. To enact sections 3902.65 and 5164.18 of the Revised Code to prohibit a health benefit plan and the Medicaid program from denying a claim for dental services on the basis of the age of the patient. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That sections 3902.65 and 5164.18 of the Revised Code be enacted to read as follows: Sec. 3902.65. A health benefit plan shall not deny a claim of reimbursement for dental services on the sole basis of the age of the recipient of those services. Sec. 5164.18. The department of medicaid shall not deny a claim for reimbursement for dental services provided under the medicaid program by a medicaid provider on the sole basis of the age of the recipient of those services.
+
+
+================================================================================
+
+Raw Text:
+hb861_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 861 2025-2026 Representatives Troy, Schmidt Cosponsors: Representatives Brennan, Brewer, Piccolantonio, Glassburn, Grim, McNally, Miller, J., Rader, Russo, Sims, Somani, Synenberg, Upchurch, White, E. To enact sections 3902.65 and 5164.18 of the Revised Code to prohibit a health benefit plan and the Medicaid program from denying a claim for dental services on the basis of the age of the patient. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That sections 3902.65 and 5164.18 of the Revised Code be enacted to read as follows: Sec. 3902.65. A health benefit plan shall not deny a claim of reimbursement for dental services on the sole basis of the age of the recipient of those services. Sec. 5164.18. The department of medicaid shall not deny a claim for reimbursement for dental services provided under the medicaid program by a medicaid provider on the sole basis of the age of the recipient of those services.
