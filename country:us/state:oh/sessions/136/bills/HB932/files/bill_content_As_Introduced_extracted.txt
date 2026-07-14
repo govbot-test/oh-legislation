@@ -1,0 +1,16 @@
+Title: hb932_00_IN
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+hb932_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 932 2025-2026 Representative Williams To enact section 2913.50 of the Revised Code to prohibit fraudulent use of state funds. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 2913.50 of the Revised Code be enacted to read as follows: Sec. 2913.50. (A) No person shall knowingly make or cause to be made a false or misleading statement or representation for use in obtaining reimbursement or funding from state funding programs or grant programs. (B) Notwithstanding any other section of the Revised Code, whoever violates this section is guilty of public assistance fraud, a felony of the second degree. The court shall impose a mandatory minimum sentence of five years imprisonment and a mandatory period of five years post-release control if the amount of reimbursement or funding is fifty thousand dollars or more. (C) A business owned and controlled by an offender who is convicted of or who has pleaded guilty to a violation of this section is prohibited from receiving state funding or grants.
+
+
+================================================================================
+
+Raw Text:
+hb932_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 932 2025-2026 Representative Williams To enact section 2913.50 of the Revised Code to prohibit fraudulent use of state funds. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 2913.50 of the Revised Code be enacted to read as follows: Sec. 2913.50. (A) No person shall knowingly make or cause to be made a false or misleading statement or representation for use in obtaining reimbursement or funding from state funding programs or grant programs. (B) Notwithstanding any other section of the Revised Code, whoever violates this section is guilty of public assistance fraud, a felony of the second degree. The court shall impose a mandatory minimum sentence of five years imprisonment and a mandatory period of five years post-release control if the amount of reimbursement or funding is fifty thousand dollars or more. (C) A business owned and controlled by an offender who is convicted of or who has pleaded guilty to a violation of this section is prohibited from receiving state funding or grants.

@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	H. B. No. 814 2025-2026 Representative Roemer To enact section 3704.142 of the Revised Code to eliminate E-Check if the U.S. Environmental Protection Agency determines that Ohio is in attainment with specified ambient air quality standards. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3704.142 of the Revised Code be enacted to read as follows: Sec. 3704.142. (A) As used in this section, "motor vehicle inspection and maintenance program" means the program implemented and managed by the Ohio environmental protection agency in accordance with Chapters 3704. and 4503. of the Revised Code, including section 3704.14 of the Revised Code. (B) If the United States environmental protection agency determines that areas of the state that are subject to the motor vehicle inspection and maintenance program are reclassified as in attainment with national ambient air quality standards for specified criteria pollutants, including ozone, under the federal Clean Air Act, for purposes of division (H) of section 3704.14 of the Revised Code, the director of environmental protection shall submit a request to the United States environmental protection agency requesting that the motor vehicle inspection and maintenance program be removed as part of the Ohio's state implementation plan. If approved, the director shall immediately discontinue the program and take any actions necessary to effectuate the termination of the program.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	H. B. No. 814 2025-2026 Representative Roemer To enact section 3704.142 of the Revised Code to eliminate E-Check if the U.S. Environmental Protection Agency determines that Ohio is in attainment with specified ambient air quality standards. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 3704.142 of the Revised Code be enacted to read as follows: Sec. 3704.142. (A) As used in this section, "motor vehicle inspection and maintenance program" means the program implemented and managed by the Ohio environmental protection agency in accordance with Chapters 3704. and 4503. of the Revised Code, including section 3704.14 of the Revised Code. (B) If the United States environmental protection agency determines that areas of the state that are subject to the motor vehicle inspection and maintenance program are reclassified as in attainment with national ambient air quality standards for specified criteria pollutants, including ozone, under the federal Clean Air Act, for purposes of division (H) of section 3704.14 of the Revised Code, the director of environmental protection shall submit a request to the United States environmental protection agency requesting that the motor vehicle inspection and maintenance program be removed as part of the Ohio's state implementation plan. If approved, the director shall immediately discontinue the program and take any actions necessary to effectuate the termination of the program.

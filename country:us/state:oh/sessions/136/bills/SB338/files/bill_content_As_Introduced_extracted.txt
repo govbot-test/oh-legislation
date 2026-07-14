@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+As Introduced 136th General Assembly Regular Session	S. B. No. 338 2025-2026 Senator Blackshear Cosponsors: Senators Weinstein, DeMora To enact section 1349.57 of the Revised Code to create the Digital Safety for Children Office under the Attorney General. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1349.57 of the Revised Code be enacted to read as follows: Sec. 1349.57. (A) The attorney general shall establish the digital safety for children office. (B) The digital safety for children office shall monitor all of the following: (1) Potential safety issues for children online; (2) Cyberbullying; (3) Children's online data collection.
+
+
+================================================================================
+
+Raw Text:
+As Introduced 136th General Assembly Regular Session	S. B. No. 338 2025-2026 Senator Blackshear Cosponsors: Senators Weinstein, DeMora To enact section 1349.57 of the Revised Code to create the Digital Safety for Children Office under the Attorney General. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 1349.57 of the Revised Code be enacted to read as follows: Sec. 1349.57. (A) The attorney general shall establish the digital safety for children office. (B) The digital safety for children office shall monitor all of the following: (1) Potential safety issues for children online; (2) Cyberbullying; (3) Children's online data collection.
