@@ -1,0 +1,100 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 978",
+  "title": "Regards the licensure and regulation of massage businesses",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts",
+    "Courts and Civil Law",
+    "Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement",
+    "Housing and Real Property",
+    "Landlords and Tenants",
+    "Occupational Licensing and Regulation",
+    "Taxation"
+  ],
+  "abstracts": [
+    {
+      "note": "long title",
+      "abstract": "To amend sections 109.572, 503.41, 3767.10, and 5101.87 and to enact sections 109.45, 109.451, 109.452, 109.453, 109.454, 109.455, 2905.34, 3724.01, 3724.02, 3724.03, 3724.04, 3724.05, 3724.06, 3724.07, 3724.99, and 5502.71 of the Revised Code regarding the licensure and regulation of massage businesses and to make an appropriation."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 109.572, 503.41, 3767.10, and 5101.87 and to enact sections 109.45, 109.451, 109.452, 109.453, 109.454, 109.455, 2905.34, 3724.01, 3724.02, 3724.03, 3724.04, 3724.05, 3724.06, 3724.07, 3724.99, and 5502.71 of the Revised Code regarding the licensure and regulation of massage businesses and to make an appropriation."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-oh-136-hb978"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-07-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T09:14:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian Lorenz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Lorenz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb978/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb978/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb978",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb978/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T09:14:14Z"
+  }
+}

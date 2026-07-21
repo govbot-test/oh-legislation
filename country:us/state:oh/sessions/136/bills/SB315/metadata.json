@@ -199,6 +199,30 @@
       "_processing": {
         "log_file_created": "2026-07-14T12:59:50Z"
       }
+    },
+    {
+      "description": "Effective",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T09:14:14Z"
+      }
+    },
+    {
+      "description": "Effective 10/6/26",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T09:14:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -528,7 +552,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T12:59:50Z",
+    "logs_latest_update": "2026-07-21T09:14:14Z",
     "text_extraction_latest_update": "2026-07-14T21:26:22.929623Z"
   }
 }
